@@ -2,43 +2,43 @@
   "dishes": [
     {
       "name": "Spaghetti Bolognese",
-      "picture_url": "https://example.com/spaghetti_bolognese.jpg",
+      "picture_url": "https://i.ibb.co/tYPX6tJ/spaghetti-bolognese-36.jpg",
       "calories": 600,
       "preparing_time": 30
     },
     {
       "name": "Chicken Alfredo",
-      "picture_url": "https://example.com/chicken_alfredo.jpg",
+      "picture_url": "https://i.ibb.co/zX163HY/Chicken-Alfredo-bowl.jpg",
       "calories": 800,
       "preparing_time": 40
     },
     {
       "name": "Vegetable Stir-Fry",
-      "picture_url": "https://example.com/vegetable_stir_fry.jpg",
+      "picture_url": "https://i.ibb.co/bKKS1m1/Vegetable-Stir-Fry.webp",
       "calories": 400,
       "preparing_time": 25
     },
     {
       "name": "Margherita Pizza",
-      "picture_url": "https://example.com/margherita_pizza.jpg",
+      "picture_url": "https://i.ibb.co/S7h4MBj/Margherita-Pizza.jpg",
       "calories": 700,
       "preparing_time": 20
     },
     {
       "name": "Grilled Salmon",
-      "picture_url": "https://example.com/grilled_salmon.jpg",
+      "picture_url": "https://i.ibb.co/5Rtw47M/Grilled-Salmon.jpg",
       "calories": 550,
       "preparing_time": 25
     },
     {
       "name": "Caesar Salad",
-      "picture_url": "https://example.com/caesar_salad.jpg",
+      "picture_url": "https://i.ibb.co/FgTh7JZ/Caesar-Salad.jpg",
       "calories": 350,
       "preparing_time": 15
     },
     {
       "name": "Beef Tacos",
-      "picture_url": "https://example.com/beef_tacos.jpg",
+      "picture_url": "https://i.ibb.co/GHtRyYj/Beef-Tacos.jpgg",
       "calories": 500,
       "preparing_time": 30
     },
