@@ -1,0 +1,214 @@
+{
+  "dishes": [
+    {
+      "name": "Spaghetti Bolognese",
+      "picture_url": "https://example.com/spaghetti_bolognese.jpg",
+      "calories": 600,
+      "preparing_time": 30
+    },
+    {
+      "name": "Chicken Alfredo",
+      "picture_url": "https://example.com/chicken_alfredo.jpg",
+      "calories": 800,
+      "preparing_time": 40
+    },
+    {
+      "name": "Vegetable Stir-Fry",
+      "picture_url": "https://example.com/vegetable_stir_fry.jpg",
+      "calories": 400,
+      "preparing_time": 25
+    },
+    {
+      "name": "Margherita Pizza",
+      "picture_url": "https://example.com/margherita_pizza.jpg",
+      "calories": 700,
+      "preparing_time": 20
+    },
+    {
+      "name": "Grilled Salmon",
+      "picture_url": "https://example.com/grilled_salmon.jpg",
+      "calories": 550,
+      "preparing_time": 25
+    },
+    {
+      "name": "Caesar Salad",
+      "picture_url": "https://example.com/caesar_salad.jpg",
+      "calories": 350,
+      "preparing_time": 15
+    },
+    {
+      "name": "Beef Tacos",
+      "picture_url": "https://example.com/beef_tacos.jpg",
+      "calories": 500,
+      "preparing_time": 30
+    },
+    {
+      "name": "Chicken Parmesan",
+      "picture_url": "https://example.com/chicken_parmesan.jpg",
+      "calories": 750,
+      "preparing_time": 35
+    },
+    {
+      "name": "Vegetarian Pizza",
+      "picture_url": "https://example.com/vegetarian_pizza.jpg",
+      "calories": 600,
+      "preparing_time": 25
+    },
+    {
+      "name": "Shrimp Scampi",
+      "picture_url": "https://example.com/shrimp_scampi.jpg",
+      "calories": 450,
+      "preparing_time": 30
+    },
+    {
+      "name": "Caprese Salad",
+      "picture_url": "https://example.com/caprese_salad.jpg",
+      "calories": 300,
+      "preparing_time": 15
+    },
+    {
+      "name": "Pulled Pork Sandwich",
+      "picture_url": "https://example.com/pulled_pork_sandwich.jpg",
+      "calories": 700,
+      "preparing_time": 40
+    },
+    {
+      "name": "Mushroom Risotto",
+      "picture_url": "https://example.com/mushroom_risotto.jpg",
+      "calories": 550,
+      "preparing_time": 35
+    },
+    {
+      "name": "Hawaiian Pizza",
+      "picture_url": "https://example.com/hawaiian_pizza.jpg",
+      "calories": 650,
+      "preparing_time": 25
+    },
+    {
+      "name": "Barbecue Chicken Wings",
+      "picture_url": "https://example.com/barbecue_chicken_wings.jpg",
+      "calories": 400,
+      "preparing_time": 20
+    },
+    {
+      "name": "Spinach and Feta Stuffed Chicken",
+      "picture_url": "https://example.com/spinach_feta_chicken.jpg",
+      "calories": 600,
+      "preparing_time": 35
+    },
+    {
+      "name": "Beef and Broccoli Stir-Fry",
+      "picture_url": "https://example.com/beef_broccoli_stir_fry.jpg",
+      "calories": 550,
+      "preparing_time": 30
+    },
+    {
+      "name": "Tomato Basil Bruschetta",
+      "picture_url": "https://example.com/tomato_basil_bruschetta.jpg",
+      "calories": 250,
+      "preparing_time": 15
+    },
+    {
+      "name": "Chicken Quesadilla",
+      "picture_url": "https://example.com/chicken_quesadilla.jpg",
+      "calories": 500,
+      "preparing_time": 25
+    },
+    {
+      "name": "Cauliflower Fried Rice",
+      "picture_url": "https://example.com/cauliflower_fried_rice.jpg",
+      "calories": 350,
+      "preparing_time": 20
+    },
+    {
+      "name": "Eggplant Parmesan",
+      "picture_url": "https://example.com/eggplant_parmesan.jpg",
+      "calories": 600,
+      "preparing_time": 35
+    },
+    {
+      "name": "Salmon Teriyaki",
+      "picture_url": "https://example.com/salmon_teriyaki.jpg",
+      "calories": 650,
+      "preparing_time": 30
+    },
+    {
+      "name": "Mango Chicken Curry",
+      "picture_url": "https://example.com/mango_chicken_curry.jpg",
+      "calories": 700,
+      "preparing_time": 40
+    },
+    {
+      "name": "Penne alla Vodka",
+      "picture_url": "https://example.com/penne_alla_vodka.jpg",
+      "calories": 550,
+      "preparing_time": 30
+    },
+    {
+      "name": "Avocado Toast",
+      "picture_url": "https://example.com/avocado_toast.jpg",
+      "calories": 300,
+      "preparing_time": 15
+    },
+    {
+      "name": "Chicken Caesar Wrap",
+      "picture_url": "https://example.com/chicken_caesar_wrap.jpg",
+      "calories": 450,
+      "preparing_time": 20
+    },
+    {
+      "name": "Quinoa Salad",
+      "picture_url": "https://example.com/quinoa_salad.jpg",
+      "calories": 400,
+      "preparing_time": 25
+    },
+    {
+      "name": "Lemon Garlic Butter Shrimp",
+      "picture_url": "https://example.com/lemon_garlic_butter_shrimp.jpg",
+      "calories": 350,
+      "preparing_time": 20
+    },
+    {
+      "name": "Tofu Stir-Fry",
+      "picture_url": "https://example.com/tofu_stir_fry.jpg",
+      "calories": 300,
+      "preparing_time": 25
+    },
+    {
+      "name": "Beef and Cheese Quesadilla",
+      "picture_url": "https://example.com/beef_cheese_quesadilla.jpg",
+      "calories": 500,
+      "preparing_time": 30
+    },
+    {
+      "name": "Cajun Shrimp Pasta",
+      "picture_url": "https://example.com/cajun_shrimp_pasta.jpg",
+      "calories": 600,
+      "preparing_time": 35
+    },
+    {
+      "name": "Greek Salad",
+      "picture_url": "https://example.com/greek_salad.jpg",
+      "calories": 350,
+      "preparing_time": 15
+    },
+    {
+      "name": "Sweet Potato Fries",
+      "picture_url": "https://example.com/sweet_potato_fries.jpg",
+      "calories": 250,
+      "preparing_time": 20
+    },
+    {
+      "name": "Beef Burrito",
+      "picture_url": "https://example.com/beef_burrito.jpg",
+      "calories": 550,
+      "preparing_time": 25
+    },
+    {
+      "name": "Chicken Noodle Soup",
+      "picture_url": "https://example.com/chicken_noodle_soup.jpg",
+      "calories": 300,
+      "preparing_time": 30
+    }
+  ]
+}
