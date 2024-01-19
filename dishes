@@ -44,196 +44,196 @@
     },
     {
       "name": "Penne alla Vodka",
-      "picture_url": "https://example.com/penne_alla_vodka.jpg",
+      "picture_url": "https://i.ibb.co/vh8bCcT/Penne-alla-Vodka.jpg",
       "calories": 550,
       "preparing_time": 30,
       "category": "Pastas"
     },
     {
       "name": "Mushroom Risotto",
-      "picture_url": "https://example.com/mushroom_risotto.jpg",
+      "picture_url": "https://i.ibb.co/vBcyMmm/Mushroom-Risotto.jpg",
       "calories": 550,
       "preparing_time": 35,
       "category": "Pastas"
     },
     {
       "name": "Hawaiian Pizza",
-      "picture_url": "https://example.com/hawaiian_pizza.jpg",
+      "picture_url": "https://i.ibb.co/FDh06t5/Hawaiian-Pizza.jpg",
       "calories": 650,
       "preparing_time": 25,
       "category": "Pastas"
     },
     {
       "name": "Cajun Shrimp Pasta",
-      "picture_url": "https://example.com/cajun_shrimp_pasta.jpg",
+      "picture_url": "https://i.ibb.co/vhMppR3/Cajun-Shrimp-Pasta.jpg",
       "calories": 600,
       "preparing_time": 35,
       "category": "Pastas"
     },
     {
       "name": "Beef Burrito",
-      "picture_url": "https://example.com/beef_burrito.jpg",
+      "picture_url": "https://i.ibb.co/TkWs63x/Beef-Burrito.jpg",
       "calories": 550,
       "preparing_time": 25,
       "category": "Pastas"
     },
     {
       "name": "Caprese Salad",
-      "picture_url": "https://example.com/caprese_salad.jpg",
+      "picture_url": "https://i.ibb.co/0cpDDsL/Caprese-Salad.jpg",
       "calories": 300,
       "preparing_time": 15,
       "category": "Salads"
     },
     {
       "name": "Tomato Basil Bruschetta",
-      "picture_url": "https://example.com/tomato_basil_bruschetta.jpg",
+      "picture_url": "https://i.ibb.co/Hxp12j0/Tomato-Basil-Bruschetta.jpg",
       "calories": 250,
       "preparing_time": 15,
       "category": "Appetizers"
     },
     {
       "name": "Eggplant Parmesan",
-      "picture_url": "https://example.com/eggplant_parmesan.jpg",
+      "picture_url": "https://i.ibb.co/0n3xQkr/Eggplant-Parmesan.jpg",
       "calories": 600,
       "preparing_time": 35,
       "category": "Lunch"
     },
     {
       "name": "Salmon Teriyaki",
-      "picture_url": "https://example.com/salmon_teriyaki.jpg",
+      "picture_url": "https://i.ibb.co/m9rMLTV/Salmon-Teriyaki.jpg",
       "calories": 650,
       "preparing_time": 30,
       "category": "Dinner"
     },
     {
       "name": "Chocolate Cake",
-      "picture_url": "https://example.com/chocolate_cake.jpg",
+      "picture_url": "https://i.ibb.co/L1T6dbp/Chocolate-Cake.webp",
       "calories": 500,
       "preparing_time": 45,
       "category": "Desserts"
     },
     {
       "name": "Vanilla Ice Cream",
-      "picture_url": "https://example.com/vanilla_ice_cream.jpg",
+      "picture_url": "https://i.ibb.co/3d1X9bW/Vanilla-Ice-Cream.gif",
       "calories": 200,
       "preparing_time": 10,
       "category": "Desserts"
     },
     {
       "name": "Cheesecake",
-      "picture_url": "https://example.com/cheesecake.jpg",
+      "picture_url": "https://i.ibb.co/rQGLCBZ/Cheesecake.webp",
       "calories": 600,
       "preparing_time": 50,
       "category": "Desserts"
     },
     {
       "name": "Fruit Tart",
-      "picture_url": "https://example.com/fruit_tart.jpg",
+      "picture_url": "https://i.ibb.co/sbxGJdt/Fruit-Tart.jpg",
       "calories": 300,
       "preparing_time": 30,
       "category": "Desserts"
     },
     {
       "name": "Chocolate Fondue",
-      "picture_url": "https://example.com/chocolate_fondue.jpg",
+      "picture_url": "https://i.ibb.co/fMbXyv2/Chocolate-Fondue.jpg",
       "calories": 450,
       "preparing_time": 20,
       "category": "Desserts"
     },
     {
       "name": "Tiramisu",
-      "picture_url": "https://example.com/tiramisu.jpg",
+      "picture_url": "https://i.ibb.co/frjxwFd/Tiramisu.jpg",
       "calories": 550,
       "preparing_time": 40,
       "category": "Desserts"
     },
     {
       "name": "Strawberry Shortcake",
-      "picture_url": "https://example.com/strawberry_shortcake.jpg",
+      "picture_url": "https://i.ibb.co/Kb4LVQ8/Strawberry-Shortcake.jpg",
       "calories": 400,
       "preparing_time": 35,
       "category": "Desserts"
     },
     {
       "name": "Mango Chicken Curry",
-      "picture_url": "https://example.com/mango_chicken_curry.jpg",
+      "picture_url": "https://i.ibb.co/Vj4119P/Mango-Chicken-Curry.jpg",
       "calories": 700,
       "preparing_time": 40,
       "category": "Dinner"
     },
     {
       "name": "Penne alla Vodka",
-      "picture_url": "https://example.com/penne_alla_vodka.jpg",
+      "picture_url": "https://i.ibb.co/tXWqGrw/Penne-alla-Vodka.jpg",
       "calories": 550,
       "preparing_time": 30,
       "category": "Dinner"
     },
     {
       "name": "Chicken Caesar Wrap",
-      "picture_url": "https://example.com/chicken_caesar_wrap.jpg",
+      "picture_url": "https://i.ibb.co/hyfMq54/Chicken-Caesar-Wrap.jpg",
       "calories": 450,
       "preparing_time": 20,
       "category": "Lunch"
     },
     {
       "name": "Quinoa Salad",
-      "picture_url": "https://example.com/quinoa_salad.jpg",
+      "picture_url": "https://i.ibb.co/tBqnBHj/Quinoa-Salad.jpg",
       "calories": 400,
       "preparing_time": 25,
       "category": "Salads"
     },
     {
       "name": "Lemon Garlic Butter Shrimp",
-      "picture_url": "https://example.com/lemon_garlic_butter_shrimp.jpg",
+      "picture_url": "https://i.ibb.co/DVYprg2/Lemon-Butter-Shrimp-square.jpg",
       "calories": 350,
       "preparing_time": 20,
       "category": "Dinner"
     },
     {
       "name": "Cajun Shrimp Pasta",
-      "picture_url": "https://example.com/cajun_shrimp_pasta.jpg",
+      "picture_url": "https://i.ibb.co/FDJd1VX/Cajun-Shrimp-Pasta.jpg",
       "calories": 600,
       "preparing_time": 35,
       "category": "Dinner"
     },
     {
       "name": "Chicken Noodle Soup",
-      "picture_url": "https://example.com/chicken_noodle_soup.jpg",
+      "picture_url": "https://i.ibb.co/sjFvqrw/Chicken-Noodle-Soup.jpg",
       "calories": 300,
       "preparing_time": 30,
       "category": "Soups"
     },
     {
       "name": "Tomato Basil Soup",
-      "picture_url": "https://example.com/tomato_basil_soup.jpg",
+      "picture_url": "https://i.ibb.co/HXBGWtC/tomato-Basil-Soup.jpg",
       "calories": 250,
       "preparing_time": 25,
       "category": "Soups"
     },
     {
       "name": "Minestrone Soup",
-      "picture_url": "https://example.com/minestrone_soup.jpg",
+      "picture_url": "https://i.ibb.co/Nx5R8ZS/Minestrone-Soup.jpg",
       "calories": 350,
       "preparing_time": 35,
       "category": "Soups"
     },
     {
       "name": "Lentil Soup",
-      "picture_url": "https://example.com/lentil_soup.jpg",
+      "picture_url": "https://i.ibb.co/bJDYQVW/Lentil-Soup.webp",
       "calories": 280,
       "preparing_time": 40,
       "category": "Soups"
     },
     {
       "name": "Cream of Mushroom Soup",
-      "picture_url": "https://example.com/cream_of_mushroom_soup.jpg",
+      "picture_url": "https://i.ibb.co/JrcwM3k/Cream-of-Mushroom-Soup.jpg",
       "calories": 400,
       "preparing_time": 30,
       "category": "Soups"
     },
     {
       "name": "Clam Chowder",
-      "picture_url": "https://example.com/clam_chowder.jpg",
+      "picture_url": "https://i.ibb.co/92DQTG8/Clam-Chowder.jpg",
       "calories": 450,
       "preparing_time": 35,
       "category": "Soups"
