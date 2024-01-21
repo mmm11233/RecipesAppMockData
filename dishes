@@ -240,154 +240,154 @@
     },
     {
       "name": "Vegetarian Pho",
-      "picture_url": "https://example.com/vegetarian_pho.jpg",
+      "picture_url": "https://i.ibb.co/DpW5PRm/Vegetarian-Pho.jpg",
       "calories": 300,
       "preparing_time": 25,
       "category": "Soups"
     },
     {
       "name": "Butternut Squash Soup",
-      "picture_url": "https://example.com/butternut_squash_soup.jpg",
+      "picture_url": "https://i.ibb.co/m64r0qn/Butternut-Squash-Soup.jpg",
       "calories": 320,
       "preparing_time": 30,
       "category": "Soups"
     },
     {
       "name": "Greek Salad",
-      "picture_url": "https://example.com/greek_salad.jpg",
+      "picture_url": "https://i.ibb.co/S7V97HQ/Greek-Salad.jpg",
       "calories": 350,
       "preparing_time": 15,
       "category": "Salads"
     },
     {
       "name": "Sweet Potato Fries",
-      "picture_url": "https://example.com/sweet_potato_fries.jpg",
+      "picture_url": "https://i.ibb.co/kqtXKHM/Sweet-Potato-Fries.jpg",
       "calories": 250,
       "preparing_time": 20,
       "category": "Appetizers"
     },
     {
       "name": "Beef Burrito",
-      "picture_url": "https://example.com/beef_burrito.jpg",
+      "picture_url": "https://i.ibb.co/RY8HBgM/Beef-Burrito.webp",
       "calories": 550,
       "preparing_time": 25,
       "category": "Lunch"
     },
     {
       "name": "Chicken Noodle Soup",
-      "picture_url": "https://example.com/chicken_noodle_soup.jpg",
+      "picture_url": "https://i.ibb.co/Y2drSzD/Chicken-Noodle-Soup-13.jpg",
       "calories": 300,
       "preparing_time": 30,
       "category": "Soups"
     },
     {
       "name": "Egg Benedict",
-      "picture_url": "https://example.com/egg_benedict.jpg",
+      "picture_url": "https://i.ibb.co/vkmfWhB/Egg-Benedict.jpg",
       "calories": 450,
       "preparing_time": 25,
       "category": "Breakfast"
     },
     {
       "name": "Pancakes",
-      "picture_url": "https://example.com/pancakes.jpg",
+      "picture_url": "https://i.ibb.co/CMQ3stZ/Pancakes.jpg",
       "calories": 600,
       "preparing_time": 30,
       "category": "Breakfast"
     },
     {
       "name": "Omelette",
-      "picture_url": "https://example.com/omelette.jpg",
+      "picture_url": "https://i.ibb.co/qCjjY6z/Omelette.jpg",
       "calories": 350,
       "preparing_time": 20,
       "category": "Breakfast"
     },
     {
       "name": "Fruit Salad",
-      "picture_url": "https://example.com/fruit_salad.jpg",
+      "picture_url": "https://i.ibb.co/FYqKckB/Fruit-Salad.jpg",
       "calories": 200,
       "preparing_time": 15,
       "category": "Breakfast"
     },
     {
       "name": "Smoothie",
-      "picture_url": "https://example.com/smoothie.jpg",
+      "picture_url": "https://i.ibb.co/fYHGqLb/Smoothie.jpg",
       "calories": 250,
       "preparing_time": 10,
       "category": "Breakfast"
     },
     {
       "name": "Hot Chocolate",
-      "picture_url": "https://example.com/hot_chocolate.jpg",
+      "picture_url": "https://i.ibb.co/TBZ6jqZ/Hot-Chocolate.jpg",
       "calories": 350,
       "preparing_time": 12,
       "category": "Drinks"
     },
     {
       "name": "Lemonade",
-      "picture_url": "https://example.com/lemonade.jpg",
+      "picture_url": "https://i.ibb.co/MP9t684/32385-best-lemonade-ever-DDMFS-4x3-8cef7761205e417499c89eb178e5ba2b.jpg",
       "calories": 100,
       "preparing_time": 8,
       "category": "Drinks"
     },
     {
       "name": "Green Tea",
-      "picture_url": "https://example.com/green_tea.jpg",
+      "picture_url": "https://i.ibb.co/37ZXGPz/Green-Tea.jpg",
       "calories": 0,
       "preparing_time": 7,
       "category": "Drinks"
     },
     {
       "name": "Waffles",
-      "picture_url": "https://example.com/waffles.jpg",
+      "picture_url": "https://i.ibb.co/BzS1dWL/Waffles.jpg",
       "calories": 500,
       "preparing_time": 25,
       "category": "Breakfast"
     },
     {
       "name": "Granola Parfait",
-      "picture_url": "https://example.com/granola_parfait.jpg",
+      "picture_url": "https://i.ibb.co/SXbBDLJ/granolaa.jpg",
       "calories": 300,
       "preparing_time": 15,
       "category": "Breakfast"
     },
     {
       "name": "French Toast",
-      "picture_url": "https://example.com/french_toast.jpg",
+      "picture_url": "https://i.ibb.co/PDRz27W/French-Toast.jpg",
       "calories": 400,
       "preparing_time": 20,
       "category": "Breakfast"
     },
     {
       "name": "Orange Juice",
-      "picture_url": "https://example.com/orange_juice.jpg",
+      "picture_url": "https://i.ibb.co/1R1KZ5n/Orange-Juice.jpg",
       "calories": 120,
       "preparing_time": 5,
       "category": "Drinks"
     },
     {
       "name": "Coffee",
-      "picture_url": "https://example.com/coffee.jpg",
+      "picture_url": "https://i.ibb.co/gddYkyQ/Coffee.jpg",
       "calories": 5,
       "preparing_time": 10,
       "category": "Drinks"
     },
     {
       "name": "Iced Tea",
-      "picture_url": "https://example.com/iced_tea.jpg",
+      "picture_url": "https://i.ibb.co/WWqKjzh/Iced-Tea.jpg",
       "calories": 30,
       "preparing_time": 15,
       "category": "Drinks"
     },
     {
       "name": "Smoothie",
-      "picture_url": "https://example.com/smoothie.jpg",
+      "picture_url": "https://i.ibb.co/z2n6N7w/Smoothie.jpg",
       "calories": 250,
       "preparing_time": 10,
       "category": "Drinks"
     },
     {
       "name": "Mango Lassi",
-      "picture_url": "https://example.com/mango_lassi.jpg",
+      "picture_url": "https://i.ibb.co/ZhsNbpy/Mango-Lassi.jpg",
       "calories": 200,
       "preparing_time": 15,
       "category": "Drinks"
