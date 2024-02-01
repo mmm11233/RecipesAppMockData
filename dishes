@@ -5,392 +5,448 @@
       "picture_url": "https://i.ibb.co/tYPX6tJ/spaghetti-bolognese-36.jpg",
       "calories": 600,
       "preparing_time": 30,
-      "category": "Pastas"
+      "category": "Pastas",
+      "ingredients": ["spaghetti", "ground beef", "tomato sauce", "onion", "garlic", "olive oil", "salt", "pepper"]
     },
     {
       "name": "Chicken Alfredo",
       "picture_url": "https://i.ibb.co/zX163HY/Chicken-Alfredo-bowl.jpg",
       "calories": 800,
       "preparing_time": 40,
-      "category": "Pastas"
+      "category": "Pastas",
+      "ingredients": ["fettuccine pasta", "chicken breast", "heavy cream", "parmesan cheese", "butter", "garlic", "salt", "pepper"]
     },
     {
       "name": "Vegetable Stir-Fry",
       "picture_url": "https://i.ibb.co/bKKS1m1/Vegetable-Stir-Fry.webp",
       "calories": 400,
       "preparing_time": 25,
-      "category": "Lunch"
+      "category": "Lunch",
+      "ingredients": ["vegetables (broccoli, bell peppers, carrots, snap peas)", "tofu", "soy sauce", "sesame oil", "garlic", "ginger", "olive oil"]
     },
     {
       "name": "Margherita Pizza",
       "picture_url": "https://i.ibb.co/S7h4MBj/Margherita-Pizza.jpg",
       "calories": 700,
       "preparing_time": 20,
-      "category": "Lunch"
+      "category": "Lunch",
+      "ingredients": ["pizza dough", "tomatoes", "fresh mozzarella", "basil", "olive oil", "salt", "pepper"]
     },
     {
       "name": "Grilled Salmon",
       "picture_url": "https://i.ibb.co/5Rtw47M/Grilled-Salmon.jpg",
       "calories": 550,
       "preparing_time": 25,
-      "category": "Lunch"
+      "category": "Lunch",
+      "ingredients": ["salmon fillet", "lemon", "olive oil", "garlic", "dill", "salt", "pepper"]
     },
     {
       "name": "Caesar Salad",
       "picture_url": "https://i.ibb.co/FgTh7JZ/Caesar-Salad.jpg",
       "calories": 350,
       "preparing_time": 15,
-      "category": "Salads"
+      "category": "Salads",
+      "ingredients": ["romaine lettuce", "croutons", "parmesan cheese", "Caesar dressing"]
     },
     {
       "name": "Penne alla Vodka",
       "picture_url": "https://i.ibb.co/vh8bCcT/Penne-alla-Vodka.jpg",
       "calories": 550,
       "preparing_time": 30,
-      "category": "Pastas"
+      "category": "Pastas",
+      "ingredients": ["penne pasta", "vodka", "tomato sauce", "heavy cream", "parmesan cheese", "olive oil", "garlic", "salt", "pepper"]
     },
-    {
+        {
       "name": "Mushroom Risotto",
       "picture_url": "https://i.ibb.co/vBcyMmm/Mushroom-Risotto.jpg",
       "calories": 550,
       "preparing_time": 35,
-      "category": "Pastas"
+      "category": "Pastas",
+      "ingredients": ["arborio rice", "mushrooms", "onion", "garlic", "vegetable broth", "white wine", "parmesan cheese", "butter", "olive oil", "salt", "pepper"]
     },
     {
       "name": "Hawaiian Pizza",
       "picture_url": "https://i.ibb.co/FDh06t5/Hawaiian-Pizza.jpg",
       "calories": 650,
       "preparing_time": 25,
-      "category": "Pastas"
+      "category": "Pastas",
+      "ingredients": ["pizza dough", "ham", "pineapple", "mozzarella cheese", "tomato sauce", "olive oil", "salt", "pepper"]
     },
     {
       "name": "Cajun Shrimp Pasta",
       "picture_url": "https://i.ibb.co/vhMppR3/Cajun-Shrimp-Pasta.jpg",
       "calories": 600,
       "preparing_time": 35,
-      "category": "Pastas"
+      "category": "Pastas",
+      "ingredients": ["fettuccine pasta", "shrimp", "bell peppers", "onion", "heavy cream", "Cajun seasoning", "parmesan cheese", "olive oil", "garlic", "salt", "pepper"]
     },
     {
       "name": "Beef Burrito",
       "picture_url": "https://i.ibb.co/TkWs63x/Beef-Burrito.jpg",
       "calories": 550,
       "preparing_time": 25,
-      "category": "Pastas"
+      "category": "Pastas",
+      "ingredients": ["tortilla", "ground beef", "black beans", "rice", "salsa", "cheese", "lettuce", "sour cream", "guacamole"]
     },
     {
       "name": "Caprese Salad",
       "picture_url": "https://i.ibb.co/0cpDDsL/Caprese-Salad.jpg",
       "calories": 300,
       "preparing_time": 15,
-      "category": "Salads"
+      "category": "Salads",
+      "ingredients": ["tomatoes", "fresh mozzarella", "basil", "balsamic glaze", "olive oil", "salt", "pepper"]
     },
     {
       "name": "Tomato Basil Bruschetta",
       "picture_url": "https://i.ibb.co/Hxp12j0/Tomato-Basil-Bruschetta.jpg",
       "calories": 250,
       "preparing_time": 15,
-      "category": "Appetizers"
+      "category": "Appetizers",
+      "ingredients": ["baguette", "tomatoes", "fresh basil", "garlic", "olive oil", "balsamic glaze", "salt", "pepper"]
     },
     {
       "name": "Eggplant Parmesan",
       "picture_url": "https://i.ibb.co/0n3xQkr/Eggplant-Parmesan.jpg",
       "calories": 600,
       "preparing_time": 35,
-      "category": "Lunch"
+      "category": "Lunch",
+      "ingredients": ["eggplant", "breadcrumbs", "marinara sauce", "mozzarella cheese", "parmesan cheese", "olive oil", "salt", "pepper"]
     },
     {
       "name": "Salmon Teriyaki",
       "picture_url": "https://i.ibb.co/m9rMLTV/Salmon-Teriyaki.jpg",
       "calories": 650,
       "preparing_time": 30,
-      "category": "Dinner"
+      "category": "Dinner",
+      "ingredients": ["salmon fillet", "soy sauce", "mirin", "brown sugar", "garlic", "ginger", "sesame oil", "green onions"]
     },
     {
       "name": "Chocolate Cake",
       "picture_url": "https://i.ibb.co/L1T6dbp/Chocolate-Cake.webp",
       "calories": 500,
       "preparing_time": 45,
-      "category": "Desserts"
+      "category": "Desserts",
+      "ingredients": ["flour", "cocoa powder", "sugar", "eggs", "butter", "vanilla extract", "baking powder", "salt", "chocolate ganache"]
     },
     {
       "name": "Vanilla Ice Cream",
       "picture_url": "https://i.ibb.co/3d1X9bW/Vanilla-Ice-Cream.gif",
       "calories": 200,
       "preparing_time": 10,
-      "category": "Desserts"
+      "category": "Desserts",
+      "ingredients": ["heavy cream", "milk", "sugar", "vanilla extract"]
     },
     {
       "name": "Cheesecake",
       "picture_url": "https://i.ibb.co/rQGLCBZ/Cheesecake.webp",
       "calories": 600,
       "preparing_time": 50,
-      "category": "Desserts"
+      "category": "Desserts",
+      "ingredients": ["cream cheese", "sugar", "eggs", "sour cream", "flour", "vanilla extract"]
     },
     {
       "name": "Fruit Tart",
       "picture_url": "https://i.ibb.co/sbxGJdt/Fruit-Tart.jpg",
       "calories": 300,
       "preparing_time": 30,
-      "category": "Desserts"
+      "category": "Desserts",
+      "ingredients": ["pastry dough", "vanilla custard", "assorted fruits (berries, kiwi, peach)", "apricot glaze"]
     },
     {
       "name": "Chocolate Fondue",
       "picture_url": "https://i.ibb.co/fMbXyv2/Chocolate-Fondue.jpg",
       "calories": 450,
       "preparing_time": 20,
-      "category": "Desserts"
+      "category": "Desserts",
+      "ingredients": ["chocolate chips", "heavy cream", "assorted dippables (strawberries, bananas, marshmallows)"]
     },
     {
       "name": "Tiramisu",
       "picture_url": "https://i.ibb.co/frjxwFd/Tiramisu.jpg",
       "calories": 550,
       "preparing_time": 40,
-      "category": "Desserts"
+      "category": "Desserts",
+      "ingredients": ["ladyfingers", "espresso", "marsala wine", "mascarpone cheese", "eggs", "cocoa powder"]
     },
     {
       "name": "Strawberry Shortcake",
       "picture_url": "https://i.ibb.co/Kb4LVQ8/Strawberry-Shortcake.jpg",
       "calories": 400,
       "preparing_time": 35,
-      "category": "Desserts"
+      "category": "Desserts",
+      "ingredients": ["sponge cake", "whipped cream", "fresh strawberries"]
     },
     {
       "name": "Mango Chicken Curry",
       "picture_url": "https://i.ibb.co/Vj4119P/Mango-Chicken-Curry.jpg",
       "calories": 700,
       "preparing_time": 40,
-      "category": "Dinner"
+      "category": "Dinner",
+      "ingredients": ["chicken thighs", "mango", "coconut milk", "curry powder", "onion", "garlic", "ginger", "cilantro", "rice"]
     },
     {
       "name": "Penne alla Vodka",
       "picture_url": "https://i.ibb.co/tXWqGrw/Penne-alla-Vodka.jpg",
       "calories": 550,
       "preparing_time": 30,
-      "category": "Dinner"
+      "category": "Dinner",
+      "ingredients": ["penne pasta", "vodka", "tomato sauce", "heavy cream", "parmesan cheese", "olive oil", "garlic", "salt", "pepper"]
     },
     {
       "name": "Chicken Caesar Wrap",
       "picture_url": "https://i.ibb.co/hyfMq54/Chicken-Caesar-Wrap.jpg",
       "calories": 450,
       "preparing_time": 20,
-      "category": "Lunch"
+      "category": "Lunch",
+      "ingredients": ["grilled chicken breast", "romaine lettuce", "Caesar dressing", "parmesan cheese", "flour tortilla"]
     },
     {
       "name": "Quinoa Salad",
       "picture_url": "https://i.ibb.co/tBqnBHj/Quinoa-Salad.jpg",
       "calories": 400,
       "preparing_time": 25,
-      "category": "Salads"
+      "category": "Salads",
+      "ingredients": ["quinoa", "cucumber", "cherry tomatoes", "red onion", "feta cheese", "olive oil", "lemon juice", "salt", "pepper"]
     },
     {
       "name": "Lemon Garlic Butter Shrimp",
       "picture_url": "https://i.ibb.co/DVYprg2/Lemon-Butter-Shrimp-square.jpg",
       "calories": 350,
       "preparing_time": 20,
-      "category": "Dinner"
+      "category": "Dinner",
+      "ingredients": ["shrimp", "butter", "garlic", "lemon", "parsley", "salt", "pepper"]
     },
     {
       "name": "Cajun Shrimp Pasta",
       "picture_url": "https://i.ibb.co/FDJd1VX/Cajun-Shrimp-Pasta.jpg",
       "calories": 600,
       "preparing_time": 35,
-      "category": "Dinner"
+      "category": "Dinner",
+      "ingredients": ["fettuccine pasta", "shrimp", "bell peppers", "onion", "heavy cream", "Cajun seasoning", "parmesan cheese", "olive oil", "garlic", "salt", "pepper"]
     },
     {
       "name": "Chicken Noodle Soup",
       "picture_url": "https://i.ibb.co/sjFvqrw/Chicken-Noodle-Soup.jpg",
       "calories": 300,
       "preparing_time": 30,
-      "category": "Soups"
+      "category": "Soups",
+      "ingredients": ["chicken broth", "chicken breast", "carrots", "celery", "onion", "egg noodles", "garlic", "thyme", "parsley", "salt", "pepper"]
     },
     {
       "name": "Tomato Basil Soup",
       "picture_url": "https://i.ibb.co/HXBGWtC/tomato-Basil-Soup.jpg",
       "calories": 250,
       "preparing_time": 25,
-      "category": "Soups"
+      "category": "Soups",
+      "ingredients": ["tomatoes", "vegetable broth", "onion", "garlic", "basil", "cream", "olive oil", "salt", "pepper"]
     },
     {
       "name": "Minestrone Soup",
       "picture_url": "https://i.ibb.co/Nx5R8ZS/Minestrone-Soup.jpg",
       "calories": 350,
       "preparing_time": 35,
-      "category": "Soups"
+      "category": "Soups",
+      "ingredients": ["vegetable broth", "tomatoes", "carrots", "celery", "zucchini", "beans", "pasta", "onion", "garlic", "thyme", "rosemary", "parmesan cheese", "olive oil", "salt", "pepper"]
     },
     {
       "name": "Lentil Soup",
       "picture_url": "https://i.ibb.co/bJDYQVW/Lentil-Soup.webp",
       "calories": 280,
       "preparing_time": 40,
-      "category": "Soups"
+      "category": "Soups",
+      "ingredients": ["lentils", "carrots", "celery", "onion", "garlic", "tomatoes", "vegetable broth", "thyme", "cumin", "olive oil", "salt", "pepper"]
     },
     {
       "name": "Cream of Mushroom Soup",
       "picture_url": "https://i.ibb.co/JrcwM3k/Cream-of-Mushroom-Soup.jpg",
       "calories": 400,
       "preparing_time": 30,
-      "category": "Soups"
+      "category": "Soups",
+      "ingredients": ["mushrooms", "butter", "flour", "onion", "garlic", "vegetable broth", "heavy cream", "thyme", "salt", "pepper"]
     },
     {
       "name": "Clam Chowder",
       "picture_url": "https://i.ibb.co/92DQTG8/Clam-Chowder.jpg",
       "calories": 450,
       "preparing_time": 35,
-      "category": "Soups"
+      "category": "Soups",
+      "ingredients": ["clams", "potatoes", "bacon", "onion", "celery", "butter", "flour", "milk", "thyme", "bay leaves", "salt", "pepper"]
     },
     {
       "name": "Vegetarian Pho",
       "picture_url": "https://i.ibb.co/DpW5PRm/Vegetarian-Pho.jpg",
       "calories": 300,
       "preparing_time": 25,
-      "category": "Soups"
+      "category": "Soups",
+      "ingredients": ["rice noodles", "tofu", "vegetable broth", "mushrooms", "bok choy", "bean sprouts", "lime", "cilantro", "hoisin sauce", "sriracha"]
     },
     {
       "name": "Butternut Squash Soup",
       "picture_url": "https://i.ibb.co/m64r0qn/Butternut-Squash-Soup.jpg",
       "calories": 320,
       "preparing_time": 30,
-      "category": "Soups"
+      "category": "Soups",
+      "ingredients": ["butternut squash", "onion", "carrots", "apple", "vegetable broth", "coconut milk", "curry powder", "cinnamon", "nutmeg", "olive oil", "salt", "pepper"]
     },
     {
       "name": "Greek Salad",
       "picture_url": "https://i.ibb.co/S7V97HQ/Greek-Salad.jpg",
       "calories": 350,
       "preparing_time": 15,
-      "category": "Salads"
+      "category": "Salads",
+      "ingredients": ["romaine lettuce", "cucumber", "tomatoes", "red onion", "kalamata olives", "feta cheese", "olive oil", "oregano", "lemon juice", "salt", "pepper"]
     },
     {
       "name": "Sweet Potato Fries",
       "picture_url": "https://i.ibb.co/kqtXKHM/Sweet-Potato-Fries.jpg",
       "calories": 250,
       "preparing_time": 20,
-      "category": "Appetizers"
+      "category": "Appetizers",
+      "ingredients": ["sweet potatoes", "olive oil", "paprika", "garlic powder", "salt", "pepper"]
     },
     {
       "name": "Beef Burrito",
       "picture_url": "https://i.ibb.co/RY8HBgM/Beef-Burrito.webp",
       "calories": 550,
       "preparing_time": 25,
-      "category": "Lunch"
+      "category": "Lunch",
+      "ingredients": ["tortilla", "ground beef", "black beans", "rice", "salsa", "cheese", "lettuce", "sour cream", "guacamole"]
     },
     {
       "name": "Chicken Noodle Soup",
       "picture_url": "https://i.ibb.co/Y2drSzD/Chicken-Noodle-Soup-13.jpg",
       "calories": 300,
       "preparing_time": 30,
-      "category": "Soups"
+      "category": "Soups",
+      "ingredients": ["chicken broth", "chicken breast", "carrots", "celery", "onion", "egg noodles", "garlic", "thyme", "parsley", "salt", "pepper"]
     },
     {
       "name": "Egg Benedict",
       "picture_url": "https://i.ibb.co/vkmfWhB/Egg-Benedict.jpg",
       "calories": 450,
       "preparing_time": 25,
-      "category": "Breakfast"
+      "category": "Breakfast",
+      "ingredients": ["English muffin", "poached eggs", "Canadian bacon", "hollandaise sauce"]
     },
     {
       "name": "Pancakes",
       "picture_url": "https://i.ibb.co/CMQ3stZ/Pancakes.jpg",
       "calories": 600,
       "preparing_time": 30,
-      "category": "Breakfast"
+      "category": "Breakfast",
+      "ingredients": ["flour", "milk", "eggs", "baking powder", "sugar", "butter", "maple syrup"]
     },
     {
       "name": "Omelette",
       "picture_url": "https://i.ibb.co/qCjjY6z/Omelette.jpg",
       "calories": 350,
       "preparing_time": 20,
-      "category": "Breakfast"
+      "category": "Breakfast",
+      "ingredients": ["eggs", "milk", "cheese", "ham", "bell peppers", "onion", "salt", "pepper"]
     },
     {
       "name": "Fruit Salad",
       "picture_url": "https://i.ibb.co/FYqKckB/Fruit-Salad.jpg",
       "calories": 200,
       "preparing_time": 15,
-      "category": "Breakfast"
+      "category": "Breakfast",
+      "ingredients": ["strawberries", "blueberries", "kiwi", "banana", "orange", "honey"]
     },
     {
       "name": "Smoothie",
       "picture_url": "https://i.ibb.co/fYHGqLb/Smoothie.jpg",
       "calories": 250,
       "preparing_time": 10,
-      "category": "Breakfast"
+      "category": "Breakfast",
+      "ingredients": ["banana", "berries", "yogurt", "milk", "honey"]
     },
     {
       "name": "Hot Chocolate",
       "picture_url": "https://i.ibb.co/TBZ6jqZ/Hot-Chocolate.jpg",
       "calories": 350,
       "preparing_time": 12,
-      "category": "Drinks"
+      "category": "Drinks",
+      "ingredients": ["milk", "cocoa powder", "sugar", "whipped cream", "chocolate shavings"]
     },
     {
       "name": "Lemonade",
       "picture_url": "https://i.ibb.co/MP9t684/32385-best-lemonade-ever-DDMFS-4x3-8cef7761205e417499c89eb178e5ba2b.jpg",
       "calories": 100,
       "preparing_time": 8,
-      "category": "Drinks"
+      "category": "Drinks",
+      "ingredients": ["lemons", "sugar", "water", "ice"]
     },
     {
       "name": "Green Tea",
       "picture_url": "https://i.ibb.co/37ZXGPz/Green-Tea.jpg",
       "calories": 0,
       "preparing_time": 7,
-      "category": "Drinks"
+      "category": "Drinks",
+      "ingredients": ["green tea leaves", "hot water", "honey (optional)"]
     },
     {
       "name": "Waffles",
       "picture_url": "https://i.ibb.co/BzS1dWL/Waffles.jpg",
       "calories": 500,
       "preparing_time": 25,
-      "category": "Breakfast"
+      "category": "Breakfast",
+      "ingredients": ["waffle mix", "eggs", "milk", "butter", "maple syrup"]
     },
     {
       "name": "Granola Parfait",
       "picture_url": "https://i.ibb.co/SXbBDLJ/granolaa.jpg",
       "calories": 300,
       "preparing_time": 15,
-      "category": "Breakfast"
+      "category": "Breakfast",
+      "ingredients": ["granola", "yogurt", "berries", "honey"]
     },
     {
       "name": "French Toast",
       "picture_url": "https://i.ibb.co/PDRz27W/French-Toast.jpg",
       "calories": 400,
       "preparing_time": 20,
-      "category": "Breakfast"
+      "category": "Breakfast",
+      "ingredients": ["bread", "eggs", "milk", "cinnamon", "vanilla extract", "butter", "maple syrup"]
     },
     {
       "name": "Orange Juice",
       "picture_url": "https://i.ibb.co/1R1KZ5n/Orange-Juice.jpg",
       "calories": 120,
       "preparing_time": 5,
-      "category": "Drinks"
+      "category": "Drinks",
+      "ingredients": ["oranges"]
     },
     {
       "name": "Coffee",
       "picture_url": "https://i.ibb.co/gddYkyQ/Coffee.jpg",
       "calories": 5,
       "preparing_time": 10,
-      "category": "Drinks"
+      "category": "Drinks",
+      "ingredients": ["ground coffee", "hot water", "sugar (optional)", "milk (optional)"]
     },
     {
       "name": "Iced Tea",
       "picture_url": "https://i.ibb.co/WWqKjzh/Iced-Tea.jpg",
       "calories": 30,
       "preparing_time": 15,
-      "category": "Drinks"
+      "category": "Drinks",
+      "ingredients": ["tea bags", "hot water", "sugar (optional)", "lemon slices", "ice"]
     },
     {
       "name": "Smoothie",
       "picture_url": "https://i.ibb.co/z2n6N7w/Smoothie.jpg",
       "calories": 250,
       "preparing_time": 10,
-      "category": "Drinks"
+      "category": "Drinks",
+      "ingredients": ["banana", "berries", "yogurt", "milk", "honey"]
     },
     {
       "name": "Mango Lassi",
       "picture_url": "https://i.ibb.co/ZhsNbpy/Mango-Lassi.jpg",
       "calories": 200,
       "preparing_time": 15,
-      "category": "Drinks"
+      "category": "Drinks",
+      "ingredients": ["mango", "yogurt", "milk", "sugar (optional)"]
     }
   ]
 }
