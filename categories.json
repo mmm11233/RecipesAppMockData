@@ -1,11 +1,32 @@
 {
-  "categories": [
-    "Breakfast",
-    "Lunch",
-    "Drinks",
-    "Pastas",
-    "Salads",
-    "Deserts",
-    "Soups"
+  "dishes": [
+    {
+      "type": "Breakfast",
+      "category_url": "https://ibb.co/56CVwLs"
+    },
+    {
+      "type": "Lunch",
+      "category_url": "https://ibb.co/6HMRvpW"
+    },
+    {
+      "type": "Drinks",
+      "category_url": "https://ibb.co/bvv5jNM"
+    },
+    {
+      "type": "Pastas",
+      "category_url": "https://ibb.co/thjM9Kt"
+    },
+    {
+      "type": "Salads",
+      "category_url": "https://ibb.co/tXZDKwd"
+    },
+    {
+      "type": "Deserts",
+      "category_url": "https://ibb.co/cT79bPr"
+    },
+    {
+      "type": "Soups",
+      "category_url": "https://ibb.co/kgNZyP1"
+    }
   ]
 }
