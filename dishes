@@ -101,7 +101,7 @@
       "picture_url": "https://i.ibb.co/Hxp12j0/Tomato-Basil-Bruschetta.jpg",
       "calories": 250,
       "preparing_time": 15,
-      "category": "Appetizers",
+      "category": "Breakfast",
       "ingredients": ["baguette", "tomatoes", "fresh basil", "garlic", "olive oil", "balsamic glaze", "salt", "pepper"]
     },
     {
@@ -117,7 +117,7 @@
       "picture_url": "https://i.ibb.co/m9rMLTV/Salmon-Teriyaki.jpg",
       "calories": 650,
       "preparing_time": 30,
-      "category": "Dinner",
+      "category": "Breakfast",
       "ingredients": ["salmon fillet", "soy sauce", "mirin", "brown sugar", "garlic", "ginger", "sesame oil", "green onions"]
     },
     {
@@ -181,7 +181,7 @@
       "picture_url": "https://i.ibb.co/Vj4119P/Mango-Chicken-Curry.jpg",
       "calories": 700,
       "preparing_time": 40,
-      "category": "Dinner",
+      "category": "Lunch",
       "ingredients": ["chicken thighs", "mango", "coconut milk", "curry powder", "onion", "garlic", "ginger", "cilantro", "rice"]
     },
     {
@@ -189,7 +189,7 @@
       "picture_url": "https://i.ibb.co/tXWqGrw/Penne-alla-Vodka.jpg",
       "calories": 550,
       "preparing_time": 30,
-      "category": "Dinner",
+      "category": "Drinks",
       "ingredients": ["penne pasta", "vodka", "tomato sauce", "heavy cream", "parmesan cheese", "olive oil", "garlic", "salt", "pepper"]
     },
     {
@@ -213,7 +213,7 @@
       "picture_url": "https://i.ibb.co/DVYprg2/Lemon-Butter-Shrimp-square.jpg",
       "calories": 350,
       "preparing_time": 20,
-      "category": "Dinner",
+      "category": "Desserts",
       "ingredients": ["shrimp", "butter", "garlic", "lemon", "parsley", "salt", "pepper"]
     },
     {
@@ -221,7 +221,7 @@
       "picture_url": "https://i.ibb.co/FDJd1VX/Cajun-Shrimp-Pasta.jpg",
       "calories": 600,
       "preparing_time": 35,
-      "category": "Dinner",
+      "category": "Desserts",
       "ingredients": ["fettuccine pasta", "shrimp", "bell peppers", "onion", "heavy cream", "Cajun seasoning", "parmesan cheese", "olive oil", "garlic", "salt", "pepper"]
     },
     {
@@ -301,7 +301,7 @@
       "picture_url": "https://i.ibb.co/kqtXKHM/Sweet-Potato-Fries.jpg",
       "calories": 250,
       "preparing_time": 20,
-      "category": "Appetizers",
+      "category": "Breakfast",
       "ingredients": ["sweet potatoes", "olive oil", "paprika", "garlic powder", "salt", "pepper"]
     },
     {
