@@ -6,7 +6,33 @@
       "calories": 600,
       "preparing_time": 30,
       "category": "Pastas",
-      "ingredients": ["spaghetti", "ground beef", "tomato sauce", "onion", "garlic", "olive oil", "salt", "pepper"]
+      "ingredients": ["spaghetti", "ground beef", "tomato sauce", "onion", "garlic", "olive oil", "salt", "pepper"],
+      "restaurants": [
+    {
+      "name": "Gabriadze Café",
+      "rating": 4.6,
+      "latitude": 41.694146,
+      "longitude": 44.809208
+    },
+    {
+      "name": "Shavi Lomi",
+      "rating": 4.7,
+      "latitude": 41.692620,
+      "longitude": 44.810641
+    },
+    {
+      "name": "Keto and Kote",
+      "rating": 4.7,
+      "latitude": 41.695069,
+      "longitude": 44.807676
+    },
+    {
+      "name": "Culinarium Khasheria",
+      "rating": 4.7,
+      "latitude": 41.696071,
+      "longitude": 44.810009
+    }
+      ]
     },
     {
       "name": "Chicken Alfredo",
@@ -14,7 +40,135 @@
       "calories": 800,
       "preparing_time": 40,
       "category": "Pastas",
-      "ingredients": ["fettuccine pasta", "chicken breast", "heavy cream", "parmesan cheese", "butter", "garlic", "salt", "pepper"]
+      "ingredients": ["fettuccine pasta", "chicken breast", "heavy cream", "parmesan cheese", "butter", "garlic", "salt", "pepper"],
+      "restaurants": [
+{
+      "name": "Barbarestan",
+      "rating": 4.6,
+      "latitude": 41.698197,
+      "longitude": 44.805382
+    },
+    {
+      "name": "Pasanauri",
+      "rating": 4.6,
+      "latitude": 41.701023,
+      "longitude": 44.801803
+    },
+    {
+      "name": "Zakhar Zakharich",
+      "rating": 4.6,
+      "latitude": 41.690362,
+      "longitude": 44.809946
+    },
+    {
+      "name": "Tabla",
+      "rating": 4.6,
+      "latitude": 41.695573,
+      "longitude": 44.811778
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.695553,
+      "longitude": 44.807496
+    },
+    {
+      "name": "Umami",
+      "rating": 4.5,
+      "latitude": 41.705188,
+      "longitude": 44.795568
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.5,
+      "latitude": 41.695200,
+      "longitude": 44.813289
+    },
+    {
+      "name": "Samikitno",
+      "rating": 4.6,
+      "latitude": 41.695474,
+      "longitude": 44.810868
+    },
+    {
+      "name": "მრავალმიმია (Mramalia)",
+      "rating": 4.7,
+      "latitude": 41.690380,
+      "longitude": 44.807992
+    },
+    {
+      "name": "Tabidze Street",
+      "rating": 4.6,
+      "latitude": 41.696823,
+      "longitude": 44.809869
+    },
+    {
+      "name": "Dzveli Sakhli",
+      "rating": 4.6,
+      "latitude": 41.693996,
+      "longitude": 44.811204
+    },
+    {
+      "name": "Gorgasali Express",
+      "rating": 4.5,
+      "latitude": 41.702707,
+      "longitude": 44.802511
+    },
+    {
+      "name": "Puri Guliani",
+      "rating": 4.6,
+      "latitude": 41.693048,
+      "longitude": 44.806463
+    },
+    {
+      "name": "Café Linville",
+      "rating": 4.5,
+      "latitude": 41.693565,
+      "longitude": 44.806136
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.5,
+      "latitude": 41.693940,
+      "longitude": 44.811773
+    },
+    {
+      "name": "Tiflis Veranda",
+      "rating": 4.6,
+      "latitude": 41.702319,
+      "longitude": 44.801926
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.6,
+      "latitude": 41.695306,
+      "longitude": 44.811160
+    },
+    {
+      "name": "Gabriadze Café",
+      "rating": 4.7,
+      "latitude": 41.693951,
+      "longitude": 44.809457
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.695187,
+      "longitude": 44.810559
+    },
+    {
+      "name": "The Kitchen",
+      "rating": 4.7,
+      "latitude": 41.691813,
+      "longitude": 44.806226
+    },
+    {
+      "name": "Khinkali House",
+      "rating": 4.6,
+      "latitude": 41.696464,
+      "longitude": 44.808126
+    }
+      ]
     },
     {
       "name": "Vegetable Stir-Fry",
@@ -22,7 +176,27 @@
       "calories": 400,
       "preparing_time": 25,
       "category": "Lunch",
-      "ingredients": ["vegetables (broccoli, bell peppers, carrots, snap peas)", "tofu", "soy sauce", "sesame oil", "garlic", "ginger", "olive oil"]
+      "ingredients": ["vegetables (broccoli, bell peppers, carrots, snap peas)", "tofu", "soy sauce", "sesame oil", "garlic", "ginger", "olive oil"],
+      "restaurants": [
+{
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.691917,
+      "longitude": 44.807335
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.5,
+      "latitude": 41.694225,
+      "longitude": 44.809447
+    },
+    {
+      "name": "Black Lion",
+      "rating": 4.5,
+      "latitude": 41.692636,
+      "longitude": 44.810166
+    }
+      ]
     },
     {
       "name": "Margherita Pizza",
@@ -30,7 +204,27 @@
       "calories": 700,
       "preparing_time": 20,
       "category": "Lunch",
-      "ingredients": ["pizza dough", "tomatoes", "fresh mozzarella", "basil", "olive oil", "salt", "pepper"]
+      "ingredients": ["pizza dough", "tomatoes", "fresh mozzarella", "basil", "olive oil", "salt", "pepper"],
+      "restaurants": [
+{
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.691917,
+      "longitude": 44.807335
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.5,
+      "latitude": 41.694225,
+      "longitude": 44.809447
+    },
+    {
+      "name": "Black Lion",
+      "rating": 4.5,
+      "latitude": 41.692636,
+      "longitude": 44.810166
+    }
+      ]
     },
     {
       "name": "Grilled Salmon",
@@ -38,7 +232,39 @@
       "calories": 550,
       "preparing_time": 25,
       "category": "Lunch",
-      "ingredients": ["salmon fillet", "lemon", "olive oil", "garlic", "dill", "salt", "pepper"]
+      "ingredients": ["salmon fillet", "lemon", "olive oil", "garlic", "dill", "salt", "pepper"],
+      "restaurants": [
+   {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.691917,
+      "longitude": 44.807335
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.5,
+      "latitude": 41.694225,
+      "longitude": 44.809447
+    },
+    {
+      "name": "Black Lion",
+      "rating": 4.5,
+      "latitude": 41.692636,
+      "longitude": 44.810166
+    },
+    {
+      "name": "Phaetoni",
+      "rating": 4.6,
+      "latitude": 41.695442,
+      "longitude": 44.810826
+    },
+    {
+      "name": "Gogi Dvalishvili",
+      "rating": 4.7,
+      "latitude": 41.694588,
+      "longitude": 44.808243
+    }
+      ]
     },
     {
       "name": "Caesar Salad",
@@ -46,7 +272,33 @@
       "calories": 350,
       "preparing_time": 15,
       "category": "Salads",
-      "ingredients": ["romaine lettuce", "croutons", "parmesan cheese", "Caesar dressing"]
+      "ingredients": ["romaine lettuce", "croutons", "parmesan cheese", "Caesar dressing"],
+      "restaurants": [
+   {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.691917,
+      "longitude": 44.807335
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.5,
+      "latitude": 41.694225,
+      "longitude": 44.809447
+    },
+    {
+      "name": "Black Lion",
+      "rating": 4.5,
+      "latitude": 41.692636,
+      "longitude": 44.810166
+    },
+    {
+      "name": "Gogi Dvalishvili",
+      "rating": 4.7,
+      "latitude": 41.694588,
+      "longitude": 44.808243
+    }
+      ]
     },
     {
       "name": "Penne alla Vodka",
@@ -54,7 +306,27 @@
       "calories": 550,
       "preparing_time": 30,
       "category": "Pastas",
-      "ingredients": ["penne pasta", "vodka", "tomato sauce", "heavy cream", "parmesan cheese", "olive oil", "garlic", "salt", "pepper"]
+      "ingredients": ["penne pasta", "vodka", "tomato sauce", "heavy cream", "parmesan cheese", "olive oil", "garlic", "salt", "pepper"],
+      "restaurants": [
+    {
+      "name": "Black Lion",
+      "rating": 4.5,
+      "latitude": 41.692636,
+      "longitude": 44.810166
+    },
+    {
+      "name": "Phaetoni",
+      "rating": 4.6,
+      "latitude": 41.695442,
+      "longitude": 44.810826
+    },
+    {
+      "name": "Gogi Dvalishvili",
+      "rating": 4.7,
+      "latitude": 41.694588,
+      "longitude": 44.808243
+    }
+      ]
     },
         {
       "name": "Mushroom Risotto",
@@ -62,7 +334,51 @@
       "calories": 550,
       "preparing_time": 35,
       "category": "Pastas",
-      "ingredients": ["arborio rice", "mushrooms", "onion", "garlic", "vegetable broth", "white wine", "parmesan cheese", "butter", "olive oil", "salt", "pepper"]
+      "ingredients": ["arborio rice", "mushrooms", "onion", "garlic", "vegetable broth", "white wine", "parmesan cheese", "butter", "olive oil", "salt", "pepper"],
+      "restaurants": [
+    {
+      "name": "Dzveli Sakhli",
+      "rating": 4.6,
+      "latitude": 41.693996,
+      "longitude": 44.811204
+    },
+    {
+      "name": "Gorgasali Express",
+      "rating": 4.5,
+      "latitude": 41.702707,
+      "longitude": 44.802511
+    },
+    {
+      "name": "Puri Guliani",
+      "rating": 4.6,
+      "latitude": 41.693048,
+      "longitude": 44.806463
+    },
+    {
+      "name": "Café Linville",
+      "rating": 4.5,
+      "latitude": 41.693565,
+      "longitude": 44.806136
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.5,
+      "latitude": 41.693940,
+      "longitude": 44.811773
+    },
+    {
+      "name": "Tiflis Veranda",
+      "rating": 4.6,
+      "latitude": 41.702319,
+      "longitude": 44.801926
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.6,
+      "latitude": 41.695306,
+      "longitude": 44.811160
+    }
+      ]
     },
     {
       "name": "Hawaiian Pizza",
@@ -70,7 +386,33 @@
       "calories": 650,
       "preparing_time": 25,
       "category": "Pastas",
-      "ingredients": ["pizza dough", "ham", "pineapple", "mozzarella cheese", "tomato sauce", "olive oil", "salt", "pepper"]
+      "ingredients": ["pizza dough", "ham", "pineapple", "mozzarella cheese", "tomato sauce", "olive oil", "salt", "pepper"],
+      "restaurants": [
+    {
+      "name": "Café Linville",
+      "rating": 4.5,
+      "latitude": 41.693565,
+      "longitude": 44.806136
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.5,
+      "latitude": 41.693940,
+      "longitude": 44.811773
+    },
+    {
+      "name": "Tiflis Veranda",
+      "rating": 4.6,
+      "latitude": 41.702319,
+      "longitude": 44.801926
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.6,
+      "latitude": 41.695306,
+      "longitude": 44.811160
+    }
+      ]
     },
     {
       "name": "Cajun Shrimp Pasta",
@@ -78,7 +420,39 @@
       "calories": 600,
       "preparing_time": 35,
       "category": "Pastas",
-      "ingredients": ["fettuccine pasta", "shrimp", "bell peppers", "onion", "heavy cream", "Cajun seasoning", "parmesan cheese", "olive oil", "garlic", "salt", "pepper"]
+      "ingredients": ["fettuccine pasta", "shrimp", "bell peppers", "onion", "heavy cream", "Cajun seasoning", "parmesan cheese", "olive oil", "garlic", "salt", "pepper"],
+      "restaurants": [
+    {
+      "name": "Dzveli Sakhli",
+      "rating": 4.6,
+      "latitude": 41.693996,
+      "longitude": 44.811204
+    },
+    {
+      "name": "Gorgasali Express",
+      "rating": 4.5,
+      "latitude": 41.702707,
+      "longitude": 44.802511
+    },
+    {
+      "name": "Puri Guliani",
+      "rating": 4.6,
+      "latitude": 41.693048,
+      "longitude": 44.806463
+    },
+    {
+      "name": "Tiflis Veranda",
+      "rating": 4.6,
+      "latitude": 41.702319,
+      "longitude": 44.801926
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.6,
+      "latitude": 41.695306,
+      "longitude": 44.811160
+    }
+      ]
     },
     {
       "name": "Beef Burrito",
@@ -86,7 +460,33 @@
       "calories": 550,
       "preparing_time": 25,
       "category": "Pastas",
-      "ingredients": ["tortilla", "ground beef", "black beans", "rice", "salsa", "cheese", "lettuce", "sour cream", "guacamole"]
+      "ingredients": ["tortilla", "ground beef", "black beans", "rice", "salsa", "cheese", "lettuce", "sour cream", "guacamole"],
+      "restaurants": [
+    {
+      "name": "Puri Guliani",
+      "rating": 4.6,
+      "latitude": 41.693048,
+      "longitude": 44.806463
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.5,
+      "latitude": 41.693940,
+      "longitude": 44.811773
+    },
+    {
+      "name": "Tiflis Veranda",
+      "rating": 4.6,
+      "latitude": 41.702319,
+      "longitude": 44.801926
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.6,
+      "latitude": 41.695306,
+      "longitude": 44.811160
+    }
+      ]
     },
     {
       "name": "Caprese Salad",
@@ -94,7 +494,51 @@
       "calories": 300,
       "preparing_time": 15,
       "category": "Salads",
-      "ingredients": ["tomatoes", "fresh mozzarella", "basil", "balsamic glaze", "olive oil", "salt", "pepper"]
+      "ingredients": ["tomatoes", "fresh mozzarella", "basil", "balsamic glaze", "olive oil", "salt", "pepper"],
+      "restaurants": [
+    {
+      "name": "Dzveli Sakhli",
+      "rating": 4.6,
+      "latitude": 41.693996,
+      "longitude": 44.811204
+    },
+    {
+      "name": "Gorgasali Express",
+      "rating": 4.5,
+      "latitude": 41.702707,
+      "longitude": 44.802511
+    },
+    {
+      "name": "Puri Guliani",
+      "rating": 4.6,
+      "latitude": 41.693048,
+      "longitude": 44.806463
+    },
+    {
+      "name": "Café Linville",
+      "rating": 4.5,
+      "latitude": 41.693565,
+      "longitude": 44.806136
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.5,
+      "latitude": 41.693940,
+      "longitude": 44.811773
+    },
+    {
+      "name": "Tiflis Veranda",
+      "rating": 4.6,
+      "latitude": 41.702319,
+      "longitude": 44.801926
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.6,
+      "latitude": 41.695306,
+      "longitude": 44.811160
+    }
+      ]
     },
     {
       "name": "Tomato Basil Bruschetta",
@@ -102,7 +546,33 @@
       "calories": 250,
       "preparing_time": 15,
       "category": "Breakfast",
-      "ingredients": ["baguette", "tomatoes", "fresh basil", "garlic", "olive oil", "balsamic glaze", "salt", "pepper"]
+      "ingredients": ["baguette", "tomatoes", "fresh basil", "garlic", "olive oil", "balsamic glaze", "salt", "pepper"],
+      "restaurants": [
+    {
+      "name": "Tiflis",
+      "rating": 4.5,
+      "latitude": 41.695200,
+      "longitude": 44.813289
+    },
+    {
+      "name": "Samikitno",
+      "rating": 4.6,
+      "latitude": 41.695474,
+      "longitude": 44.810868
+    },
+    {
+      "name": "მრავალმიმია (Mramalia)",
+      "rating": 4.7,
+      "latitude": 41.690380,
+      "longitude": 44.807992
+    },
+    {
+      "name": "Tabidze Street",
+      "rating": 4.6,
+      "latitude": 41.696823,
+      "longitude": 44.809869
+    }
+      ]
     },
     {
       "name": "Eggplant Parmesan",
@@ -110,7 +580,33 @@
       "calories": 600,
       "preparing_time": 35,
       "category": "Lunch",
-      "ingredients": ["eggplant", "breadcrumbs", "marinara sauce", "mozzarella cheese", "parmesan cheese", "olive oil", "salt", "pepper"]
+      "ingredients": ["eggplant", "breadcrumbs", "marinara sauce", "mozzarella cheese", "parmesan cheese", "olive oil", "salt", "pepper"],
+      "restaurants": [
+    {
+      "name": "Tiflis",
+      "rating": 4.5,
+      "latitude": 41.695200,
+      "longitude": 44.813289
+    },
+    {
+      "name": "Samikitno",
+      "rating": 4.6,
+      "latitude": 41.695474,
+      "longitude": 44.810868
+    },
+    {
+      "name": "მრავალმიმია (Mramalia)",
+      "rating": 4.7,
+      "latitude": 41.690380,
+      "longitude": 44.807992
+    },
+    {
+      "name": "Tabidze Street",
+      "rating": 4.6,
+      "latitude": 41.696823,
+      "longitude": 44.809869
+    }
+      ]
     },
     {
       "name": "Salmon Teriyaki",
@@ -118,7 +614,33 @@
       "calories": 650,
       "preparing_time": 30,
       "category": "Breakfast",
-      "ingredients": ["salmon fillet", "soy sauce", "mirin", "brown sugar", "garlic", "ginger", "sesame oil", "green onions"]
+      "ingredients": ["salmon fillet", "soy sauce", "mirin", "brown sugar", "garlic", "ginger", "sesame oil", "green onions"],
+      "restaurants": [
+    {
+      "name": "Tiflis",
+      "rating": 4.5,
+      "latitude": 41.695200,
+      "longitude": 44.813289
+    },
+    {
+      "name": "Samikitno",
+      "rating": 4.6,
+      "latitude": 41.695474,
+      "longitude": 44.810868
+    },
+    {
+      "name": "მრავალმიმია (Mramalia)",
+      "rating": 4.7,
+      "latitude": 41.690380,
+      "longitude": 44.807992
+    },
+    {
+      "name": "Tabidze Street",
+      "rating": 4.6,
+      "latitude": 41.696823,
+      "longitude": 44.809869
+    }
+      ]
     },
     {
       "name": "Chocolate Cake",
@@ -126,7 +648,51 @@
       "calories": 500,
       "preparing_time": 45,
       "category": "Desserts",
-      "ingredients": ["flour", "cocoa powder", "sugar", "eggs", "butter", "vanilla extract", "baking powder", "salt", "chocolate ganache"]
+      "ingredients": ["flour", "cocoa powder", "sugar", "eggs", "butter", "vanilla extract", "baking powder", "salt", "chocolate ganache"],
+      "restaurants": [
+    {
+      "name": "Gabriadze Café",
+      "rating": 4.6,
+      "latitude": 41.694146,
+      "longitude": 44.809208
+    },
+    {
+      "name": "Shavi Lomi",
+      "rating": 4.7,
+      "latitude": 41.692620,
+      "longitude": 44.810641
+    },
+    {
+      "name": "Keto and Kote",
+      "rating": 4.7,
+      "latitude": 41.695069,
+      "longitude": 44.807676
+    },
+    {
+      "name": "Culinarium Khasheria",
+      "rating": 4.7,
+      "latitude": 41.696071,
+      "longitude": 44.810009
+    },
+    {
+      "name": "Barbarestan",
+      "rating": 4.6,
+      "latitude": 41.698197,
+      "longitude": 44.805382
+    },
+    {
+      "name": "Pasanauri",
+      "rating": 4.6,
+      "latitude": 41.701023,
+      "longitude": 44.801803
+    },
+    {
+      "name": "Zakhar Zakharich",
+      "rating": 4.6,
+      "latitude": 41.690362,
+      "longitude": 44.809946
+    }
+      ]
     },
     {
       "name": "Vanilla Ice Cream",
@@ -134,7 +700,39 @@
       "calories": 200,
       "preparing_time": 10,
       "category": "Desserts",
-      "ingredients": ["heavy cream", "milk", "sugar", "vanilla extract"]
+      "ingredients": ["heavy cream", "milk", "sugar", "vanilla extract"],
+      "restaurants": [
+    {
+      "name": "Gabriadze Café",
+      "rating": 4.6,
+      "latitude": 41.694146,
+      "longitude": 44.809208
+    },
+    {
+      "name": "Shavi Lomi",
+      "rating": 4.7,
+      "latitude": 41.692620,
+      "longitude": 44.810641
+    },
+    {
+      "name": "Keto and Kote",
+      "rating": 4.7,
+      "latitude": 41.695069,
+      "longitude": 44.807676
+    },
+    {
+      "name": "Pasanauri",
+      "rating": 4.6,
+      "latitude": 41.701023,
+      "longitude": 44.801803
+    },
+    {
+      "name": "Zakhar Zakharich",
+      "rating": 4.6,
+      "latitude": 41.690362,
+      "longitude": 44.809946
+    }
+      ]
     },
     {
       "name": "Cheesecake",
@@ -142,7 +740,27 @@
       "calories": 600,
       "preparing_time": 50,
       "category": "Desserts",
-      "ingredients": ["cream cheese", "sugar", "eggs", "sour cream", "flour", "vanilla extract"]
+      "ingredients": ["cream cheese", "sugar", "eggs", "sour cream", "flour", "vanilla extract"],
+      "restaurants": [
+    {
+      "name": "Gabriadze Café",
+      "rating": 4.6,
+      "latitude": 41.694146,
+      "longitude": 44.809208
+    },
+    {
+      "name": "Pasanauri",
+      "rating": 4.6,
+      "latitude": 41.701023,
+      "longitude": 44.801803
+    },
+    {
+      "name": "Zakhar Zakharich",
+      "rating": 4.6,
+      "latitude": 41.690362,
+      "longitude": 44.809946
+    }
+      ]
     },
     {
       "name": "Fruit Tart",
@@ -150,7 +768,33 @@
       "calories": 300,
       "preparing_time": 30,
       "category": "Desserts",
-      "ingredients": ["pastry dough", "vanilla custard", "assorted fruits (berries, kiwi, peach)", "apricot glaze"]
+      "ingredients": ["pastry dough", "vanilla custard", "assorted fruits (berries, kiwi, peach)", "apricot glaze"],
+      "restaurants": [
+    {
+      "name": "Gabriadze Café",
+      "rating": 4.6,
+      "latitude": 41.694146,
+      "longitude": 44.809208
+    },
+    {
+      "name": "Shavi Lomi",
+      "rating": 4.7,
+      "latitude": 41.692620,
+      "longitude": 44.810641
+    },
+    {
+      "name": "Keto and Kote",
+      "rating": 4.7,
+      "latitude": 41.695069,
+      "longitude": 44.807676
+    },
+    {
+      "name": "Culinarium Khasheria",
+      "rating": 4.7,
+      "latitude": 41.696071,
+      "longitude": 44.810009
+    }
+      ]
     },
     {
       "name": "Chocolate Fondue",
@@ -158,7 +802,51 @@
       "calories": 450,
       "preparing_time": 20,
       "category": "Desserts",
-      "ingredients": ["chocolate chips", "heavy cream", "assorted dippables (strawberries, bananas, marshmallows)"]
+      "ingredients": ["chocolate chips", "heavy cream", "assorted dippables (strawberries, bananas, marshmallows)"],
+      "restaurants": [
+    {
+      "name": "Gabriadze Café",
+      "rating": 4.6,
+      "latitude": 41.694146,
+      "longitude": 44.809208
+    },
+    {
+      "name": "Shavi Lomi",
+      "rating": 4.7,
+      "latitude": 41.692620,
+      "longitude": 44.810641
+    },
+    {
+      "name": "Keto and Kote",
+      "rating": 4.7,
+      "latitude": 41.695069,
+      "longitude": 44.807676
+    },
+    {
+      "name": "Culinarium Khasheria",
+      "rating": 4.7,
+      "latitude": 41.696071,
+      "longitude": 44.810009
+    },
+    {
+      "name": "Barbarestan",
+      "rating": 4.6,
+      "latitude": 41.698197,
+      "longitude": 44.805382
+    },
+    {
+      "name": "Pasanauri",
+      "rating": 4.6,
+      "latitude": 41.701023,
+      "longitude": 44.801803
+    },
+    {
+      "name": "Zakhar Zakharich",
+      "rating": 4.6,
+      "latitude": 41.690362,
+      "longitude": 44.809946
+    }
+      ]
     },
     {
       "name": "Tiramisu",
@@ -166,7 +854,27 @@
       "calories": 550,
       "preparing_time": 40,
       "category": "Desserts",
-      "ingredients": ["ladyfingers", "espresso", "marsala wine", "mascarpone cheese", "eggs", "cocoa powder"]
+      "ingredients": ["ladyfingers", "espresso", "marsala wine", "mascarpone cheese", "eggs", "cocoa powder"],
+      "restaurants": [
+    {
+      "name": "Gabriadze Café",
+      "rating": 4.6,
+      "latitude": 41.694146,
+      "longitude": 44.809208
+    },
+    {
+      "name": "Shavi Lomi",
+      "rating": 4.7,
+      "latitude": 41.692620,
+      "longitude": 44.810641
+    },
+    {
+      "name": "Zakhar Zakharich",
+      "rating": 4.6,
+      "latitude": 41.690362,
+      "longitude": 44.809946
+    }
+      ]
     },
     {
       "name": "Strawberry Shortcake",
@@ -174,7 +882,39 @@
       "calories": 400,
       "preparing_time": 35,
       "category": "Desserts",
-      "ingredients": ["sponge cake", "whipped cream", "fresh strawberries"]
+      "ingredients": ["sponge cake", "whipped cream", "fresh strawberries"],
+      "restaurants": [
+    {
+      "name": "Gabriadze Café",
+      "rating": 4.6,
+      "latitude": 41.694146,
+      "longitude": 44.809208
+    },
+    {
+      "name": "Keto and Kote",
+      "rating": 4.7,
+      "latitude": 41.695069,
+      "longitude": 44.807676
+    },
+    {
+      "name": "Culinarium Khasheria",
+      "rating": 4.7,
+      "latitude": 41.696071,
+      "longitude": 44.810009
+    },
+    {
+      "name": "Pasanauri",
+      "rating": 4.6,
+      "latitude": 41.701023,
+      "longitude": 44.801803
+    },
+    {
+      "name": "Zakhar Zakharich",
+      "rating": 4.6,
+      "latitude": 41.690362,
+      "longitude": 44.809946
+    }
+      ]
     },
     {
       "name": "Mango Chicken Curry",
@@ -182,7 +922,63 @@
       "calories": 700,
       "preparing_time": 40,
       "category": "Lunch",
-      "ingredients": ["chicken thighs", "mango", "coconut milk", "curry powder", "onion", "garlic", "ginger", "cilantro", "rice"]
+      "ingredients": ["chicken thighs", "mango", "coconut milk", "curry powder", "onion", "garlic", "ginger", "cilantro", "rice"],
+      "restaurants": [
+    {
+      "name": "Tabla",
+      "rating": 4.6,
+      "latitude": 41.695573,
+      "longitude": 44.811778
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.695553,
+      "longitude": 44.807496
+    },
+    {
+      "name": "Umami",
+      "rating": 4.5,
+      "latitude": 41.705188,
+      "longitude": 44.795568
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.5,
+      "latitude": 41.695200,
+      "longitude": 44.813289
+    },
+    {
+      "name": "Samikitno",
+      "rating": 4.6,
+      "latitude": 41.695474,
+      "longitude": 44.810868
+    },
+    {
+      "name": "მრავალმიმია (Mramalia)",
+      "rating": 4.7,
+      "latitude": 41.690380,
+      "longitude": 44.807992
+    },
+    {
+      "name": "Tabidze Street",
+      "rating": 4.6,
+      "latitude": 41.696823,
+      "longitude": 44.809869
+    },
+    {
+      "name": "Dzveli Sakhli",
+      "rating": 4.6,
+      "latitude": 41.693996,
+      "longitude": 44.811204
+    },
+    {
+      "name": "Gorgasali Express",
+      "rating": 4.5,
+      "latitude": 41.702707,
+      "longitude": 44.802511
+    }
+      ]
     },
     {
       "name": "Penne alla Vodka",
@@ -190,7 +986,62 @@
       "calories": 550,
       "preparing_time": 30,
       "category": "Drinks",
-      "ingredients": ["penne pasta", "vodka", "tomato sauce", "heavy cream", "parmesan cheese", "olive oil", "garlic", "salt", "pepper"]
+      "ingredients": ["penne pasta", "vodka", "tomato sauce", "heavy cream", "parmesan cheese", "olive oil", "garlic", "salt", "pepper"],
+      "restaurants": [    {
+      "name": "Tabla",
+      "rating": 4.6,
+      "latitude": 41.695573,
+      "longitude": 44.811778
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.695553,
+      "longitude": 44.807496
+    },
+    {
+      "name": "Umami",
+      "rating": 4.5,
+      "latitude": 41.705188,
+      "longitude": 44.795568
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.5,
+      "latitude": 41.695200,
+      "longitude": 44.813289
+    },
+    {
+      "name": "Samikitno",
+      "rating": 4.6,
+      "latitude": 41.695474,
+      "longitude": 44.810868
+    },
+    {
+      "name": "მრავალმიმია (Mramalia)",
+      "rating": 4.7,
+      "latitude": 41.690380,
+      "longitude": 44.807992
+    },
+    {
+      "name": "Tabidze Street",
+      "rating": 4.6,
+      "latitude": 41.696823,
+      "longitude": 44.809869
+    },
+    {
+      "name": "Dzveli Sakhli",
+      "rating": 4.6,
+      "latitude": 41.693996,
+      "longitude": 44.811204
+    },
+    {
+      "name": "Gorgasali Express",
+      "rating": 4.5,
+      "latitude": 41.702707,
+      "longitude": 44.802511
+    }
+      ]
     },
     {
       "name": "Chicken Caesar Wrap",
@@ -198,7 +1049,63 @@
       "calories": 450,
       "preparing_time": 20,
       "category": "Lunch",
-      "ingredients": ["grilled chicken breast", "romaine lettuce", "Caesar dressing", "parmesan cheese", "flour tortilla"]
+      "ingredients": ["grilled chicken breast", "romaine lettuce", "Caesar dressing", "parmesan cheese", "flour tortilla"],
+      "restaurants": [
+    {
+      "name": "Tabla",
+      "rating": 4.6,
+      "latitude": 41.695573,
+      "longitude": 44.811778
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.695553,
+      "longitude": 44.807496
+    },
+    {
+      "name": "Umami",
+      "rating": 4.5,
+      "latitude": 41.705188,
+      "longitude": 44.795568
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.5,
+      "latitude": 41.695200,
+      "longitude": 44.813289
+    },
+    {
+      "name": "Samikitno",
+      "rating": 4.6,
+      "latitude": 41.695474,
+      "longitude": 44.810868
+    },
+    {
+      "name": "მრავალმიმია (Mramalia)",
+      "rating": 4.7,
+      "latitude": 41.690380,
+      "longitude": 44.807992
+    },
+    {
+      "name": "Tabidze Street",
+      "rating": 4.6,
+      "latitude": 41.696823,
+      "longitude": 44.809869
+    },
+    {
+      "name": "Dzveli Sakhli",
+      "rating": 4.6,
+      "latitude": 41.693996,
+      "longitude": 44.811204
+    },
+    {
+      "name": "Gorgasali Express",
+      "rating": 4.5,
+      "latitude": 41.702707,
+      "longitude": 44.802511
+    }
+      ]
     },
     {
       "name": "Quinoa Salad",
@@ -206,7 +1113,51 @@
       "calories": 400,
       "preparing_time": 25,
       "category": "Salads",
-      "ingredients": ["quinoa", "cucumber", "cherry tomatoes", "red onion", "feta cheese", "olive oil", "lemon juice", "salt", "pepper"]
+      "ingredients": ["quinoa", "cucumber", "cherry tomatoes", "red onion", "feta cheese", "olive oil", "lemon juice", "salt", "pepper"],
+      "restaurants": [
+    {
+      "name": "Tabla",
+      "rating": 4.6,
+      "latitude": 41.695573,
+      "longitude": 44.811778
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.695553,
+      "longitude": 44.807496
+    },
+    {
+      "name": "Umami",
+      "rating": 4.5,
+      "latitude": 41.705188,
+      "longitude": 44.795568
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.5,
+      "latitude": 41.695200,
+      "longitude": 44.813289
+    },
+    {
+      "name": "Tabidze Street",
+      "rating": 4.6,
+      "latitude": 41.696823,
+      "longitude": 44.809869
+    },
+    {
+      "name": "Dzveli Sakhli",
+      "rating": 4.6,
+      "latitude": 41.693996,
+      "longitude": 44.811204
+    },
+    {
+      "name": "Gorgasali Express",
+      "rating": 4.5,
+      "latitude": 41.702707,
+      "longitude": 44.802511
+    }
+      ]
     },
     {
       "name": "Lemon Garlic Butter Shrimp",
@@ -214,7 +1165,51 @@
       "calories": 350,
       "preparing_time": 20,
       "category": "Desserts",
-      "ingredients": ["shrimp", "butter", "garlic", "lemon", "parsley", "salt", "pepper"]
+      "ingredients": ["shrimp", "butter", "garlic", "lemon", "parsley", "salt", "pepper"],
+      "restaurants": [
+    {
+      "name": "Tabla",
+      "rating": 4.6,
+      "latitude": 41.695573,
+      "longitude": 44.811778
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.695553,
+      "longitude": 44.807496
+    },
+    {
+      "name": "Umami",
+      "rating": 4.5,
+      "latitude": 41.705188,
+      "longitude": 44.795568
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.5,
+      "latitude": 41.695200,
+      "longitude": 44.813289
+    },
+    {
+      "name": "Samikitno",
+      "rating": 4.6,
+      "latitude": 41.695474,
+      "longitude": 44.810868
+    },
+    {
+      "name": "მრავალმიმია (Mramalia)",
+      "rating": 4.7,
+      "latitude": 41.690380,
+      "longitude": 44.807992
+    },
+    {
+      "name": "Gorgasali Express",
+      "rating": 4.5,
+      "latitude": 41.702707,
+      "longitude": 44.802511
+    }
+      ]
     },
     {
       "name": "Cajun Shrimp Pasta",
@@ -222,7 +1217,69 @@
       "calories": 600,
       "preparing_time": 35,
       "category": "Desserts",
-      "ingredients": ["fettuccine pasta", "shrimp", "bell peppers", "onion", "heavy cream", "Cajun seasoning", "parmesan cheese", "olive oil", "garlic", "salt", "pepper"]
+      "ingredients": ["fettuccine pasta", "shrimp", "bell peppers", "onion", "heavy cream", "Cajun seasoning", "parmesan cheese", "olive oil", "garlic", "salt", "pepper"],
+      "restaurants": [
+   {
+      "name": "Puri Guliani",
+      "rating": 4.6,
+      "latitude": 41.693048,
+      "longitude": 44.806463
+    },
+    {
+      "name": "Café Linville",
+      "rating": 4.5,
+      "latitude": 41.693565,
+      "longitude": 44.806136
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.5,
+      "latitude": 41.693940,
+      "longitude": 44.811773
+    },
+    {
+      "name": "Tiflis Veranda",
+      "rating": 4.6,
+      "latitude": 41.702319,
+      "longitude": 44.801926
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.6,
+      "latitude": 41.695306,
+      "longitude": 44.811160
+    },
+    {
+      "name": "Gabriadze Café",
+      "rating": 4.7,
+      "latitude": 41.693951,
+      "longitude": 44.809457
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.695187,
+      "longitude": 44.810559
+    },
+    {
+      "name": "The Kitchen",
+      "rating": 4.7,
+      "latitude": 41.691813,
+      "longitude": 44.806226
+    },
+    {
+      "name": "Khinkali House",
+      "rating": 4.6,
+      "latitude": 41.696464,
+      "longitude": 44.808126
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.691917,
+      "longitude": 44.807335
+    }
+      ]
     },
     {
       "name": "Chicken Noodle Soup",
@@ -230,7 +1287,51 @@
       "calories": 300,
       "preparing_time": 30,
       "category": "Soups",
-      "ingredients": ["chicken broth", "chicken breast", "carrots", "celery", "onion", "egg noodles", "garlic", "thyme", "parsley", "salt", "pepper"]
+      "ingredients": ["chicken broth", "chicken breast", "carrots", "celery", "onion", "egg noodles", "garlic", "thyme", "parsley", "salt", "pepper"],
+      "restaurants": [
+   {
+      "name": "Puri Guliani",
+      "rating": 4.6,
+      "latitude": 41.693048,
+      "longitude": 44.806463
+    },
+    {
+      "name": "Café Linville",
+      "rating": 4.5,
+      "latitude": 41.693565,
+      "longitude": 44.806136
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.5,
+      "latitude": 41.693940,
+      "longitude": 44.811773
+    },
+    {
+      "name": "Tiflis Veranda",
+      "rating": 4.6,
+      "latitude": 41.702319,
+      "longitude": 44.801926
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.6,
+      "latitude": 41.695306,
+      "longitude": 44.811160
+    },
+    {
+      "name": "Khinkali House",
+      "rating": 4.6,
+      "latitude": 41.696464,
+      "longitude": 44.808126
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.691917,
+      "longitude": 44.807335
+    }
+      ]
     },
     {
       "name": "Tomato Basil Soup",
@@ -238,7 +1339,69 @@
       "calories": 250,
       "preparing_time": 25,
       "category": "Soups",
-      "ingredients": ["tomatoes", "vegetable broth", "onion", "garlic", "basil", "cream", "olive oil", "salt", "pepper"]
+      "ingredients": ["tomatoes", "vegetable broth", "onion", "garlic", "basil", "cream", "olive oil", "salt", "pepper"],
+      "restaurants": [
+   {
+      "name": "Puri Guliani",
+      "rating": 4.6,
+      "latitude": 41.693048,
+      "longitude": 44.806463
+    },
+    {
+      "name": "Café Linville",
+      "rating": 4.5,
+      "latitude": 41.693565,
+      "longitude": 44.806136
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.5,
+      "latitude": 41.693940,
+      "longitude": 44.811773
+    },
+    {
+      "name": "Tiflis Veranda",
+      "rating": 4.6,
+      "latitude": 41.702319,
+      "longitude": 44.801926
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.6,
+      "latitude": 41.695306,
+      "longitude": 44.811160
+    },
+    {
+      "name": "Gabriadze Café",
+      "rating": 4.7,
+      "latitude": 41.693951,
+      "longitude": 44.809457
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.695187,
+      "longitude": 44.810559
+    },
+    {
+      "name": "The Kitchen",
+      "rating": 4.7,
+      "latitude": 41.691813,
+      "longitude": 44.806226
+    },
+    {
+      "name": "Khinkali House",
+      "rating": 4.6,
+      "latitude": 41.696464,
+      "longitude": 44.808126
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.691917,
+      "longitude": 44.807335
+    }
+      ]
     },
     {
       "name": "Minestrone Soup",
@@ -246,7 +1409,69 @@
       "calories": 350,
       "preparing_time": 35,
       "category": "Soups",
-      "ingredients": ["vegetable broth", "tomatoes", "carrots", "celery", "zucchini", "beans", "pasta", "onion", "garlic", "thyme", "rosemary", "parmesan cheese", "olive oil", "salt", "pepper"]
+      "ingredients": ["vegetable broth", "tomatoes", "carrots", "celery", "zucchini", "beans", "pasta", "onion", "garlic", "thyme", "rosemary", "parmesan cheese", "olive oil", "salt", "pepper"],
+      "restaurants": [
+   {
+      "name": "Puri Guliani",
+      "rating": 4.6,
+      "latitude": 41.693048,
+      "longitude": 44.806463
+    },
+    {
+      "name": "Café Linville",
+      "rating": 4.5,
+      "latitude": 41.693565,
+      "longitude": 44.806136
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.5,
+      "latitude": 41.693940,
+      "longitude": 44.811773
+    },
+    {
+      "name": "Tiflis Veranda",
+      "rating": 4.6,
+      "latitude": 41.702319,
+      "longitude": 44.801926
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.6,
+      "latitude": 41.695306,
+      "longitude": 44.811160
+    },
+    {
+      "name": "Gabriadze Café",
+      "rating": 4.7,
+      "latitude": 41.693951,
+      "longitude": 44.809457
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.695187,
+      "longitude": 44.810559
+    },
+    {
+      "name": "The Kitchen",
+      "rating": 4.7,
+      "latitude": 41.691813,
+      "longitude": 44.806226
+    },
+    {
+      "name": "Khinkali House",
+      "rating": 4.6,
+      "latitude": 41.696464,
+      "longitude": 44.808126
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.691917,
+      "longitude": 44.807335
+    }
+      ]
     },
     {
       "name": "Lentil Soup",
@@ -254,7 +1479,63 @@
       "calories": 280,
       "preparing_time": 40,
       "category": "Soups",
-      "ingredients": ["lentils", "carrots", "celery", "onion", "garlic", "tomatoes", "vegetable broth", "thyme", "cumin", "olive oil", "salt", "pepper"]
+      "ingredients": ["lentils", "carrots", "celery", "onion", "garlic", "tomatoes", "vegetable broth", "thyme", "cumin", "olive oil", "salt", "pepper"],
+      "restaurants": [
+    {
+      "name": "Gabriadze Café",
+      "rating": 4.7,
+      "latitude": 41.693951,
+      "longitude": 44.809457
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.695187,
+      "longitude": 44.810559
+    },
+    {
+      "name": "The Kitchen",
+      "rating": 4.7,
+      "latitude": 41.691813,
+      "longitude": 44.806226
+    },
+    {
+      "name": "Khinkali House",
+      "rating": 4.6,
+      "latitude": 41.696464,
+      "longitude": 44.808126
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.691917,
+      "longitude": 44.807335
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.5,
+      "latitude": 41.694225,
+      "longitude": 44.809447
+    },
+    {
+      "name": "Black Lion",
+      "rating": 4.5,
+      "latitude": 41.692636,
+      "longitude": 44.810166
+    },
+    {
+      "name": "Phaetoni",
+      "rating": 4.6,
+      "latitude": 41.695442,
+      "longitude": 44.810826
+    },
+    {
+      "name": "Gogi Dvalishvili",
+      "rating": 4.7,
+      "latitude": 41.694588,
+      "longitude": 44.808243
+    }
+      ]
     },
     {
       "name": "Cream of Mushroom Soup",
@@ -262,7 +1543,63 @@
       "calories": 400,
       "preparing_time": 30,
       "category": "Soups",
-      "ingredients": ["mushrooms", "butter", "flour", "onion", "garlic", "vegetable broth", "heavy cream", "thyme", "salt", "pepper"]
+      "ingredients": ["mushrooms", "butter", "flour", "onion", "garlic", "vegetable broth", "heavy cream", "thyme", "salt", "pepper"],
+      "restaurants": [
+    {
+      "name": "Gabriadze Café",
+      "rating": 4.7,
+      "latitude": 41.693951,
+      "longitude": 44.809457
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.695187,
+      "longitude": 44.810559
+    },
+    {
+      "name": "The Kitchen",
+      "rating": 4.7,
+      "latitude": 41.691813,
+      "longitude": 44.806226
+    },
+    {
+      "name": "Khinkali House",
+      "rating": 4.6,
+      "latitude": 41.696464,
+      "longitude": 44.808126
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.691917,
+      "longitude": 44.807335
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.5,
+      "latitude": 41.694225,
+      "longitude": 44.809447
+    },
+    {
+      "name": "Black Lion",
+      "rating": 4.5,
+      "latitude": 41.692636,
+      "longitude": 44.810166
+    },
+    {
+      "name": "Phaetoni",
+      "rating": 4.6,
+      "latitude": 41.695442,
+      "longitude": 44.810826
+    },
+    {
+      "name": "Gogi Dvalishvili",
+      "rating": 4.7,
+      "latitude": 41.694588,
+      "longitude": 44.808243
+    }
+      ]
     },
     {
       "name": "Clam Chowder",
@@ -270,7 +1607,51 @@
       "calories": 450,
       "preparing_time": 35,
       "category": "Soups",
-      "ingredients": ["clams", "potatoes", "bacon", "onion", "celery", "butter", "flour", "milk", "thyme", "bay leaves", "salt", "pepper"]
+      "ingredients": ["clams", "potatoes", "bacon", "onion", "celery", "butter", "flour", "milk", "thyme", "bay leaves", "salt", "pepper"],
+      "restaurants": [
+    {
+      "name": "Gabriadze Café",
+      "rating": 4.7,
+      "latitude": 41.693951,
+      "longitude": 44.809457
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.695187,
+      "longitude": 44.810559
+    },
+    {
+      "name": "The Kitchen",
+      "rating": 4.7,
+      "latitude": 41.691813,
+      "longitude": 44.806226
+    },
+    {
+      "name": "Khinkali House",
+      "rating": 4.6,
+      "latitude": 41.696464,
+      "longitude": 44.808126
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.691917,
+      "longitude": 44.807335
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.5,
+      "latitude": 41.694225,
+      "longitude": 44.809447
+    },
+    {
+      "name": "Gogi Dvalishvili",
+      "rating": 4.7,
+      "latitude": 41.694588,
+      "longitude": 44.808243
+    }
+      ]
     },
     {
       "name": "Vegetarian Pho",
@@ -278,7 +1659,63 @@
       "calories": 300,
       "preparing_time": 25,
       "category": "Soups",
-      "ingredients": ["rice noodles", "tofu", "vegetable broth", "mushrooms", "bok choy", "bean sprouts", "lime", "cilantro", "hoisin sauce", "sriracha"]
+      "ingredients": ["rice noodles", "tofu", "vegetable broth", "mushrooms", "bok choy", "bean sprouts", "lime", "cilantro", "hoisin sauce", "sriracha"],
+      "restaurants": [
+    {
+      "name": "Gabriadze Café",
+      "rating": 4.7,
+      "latitude": 41.693951,
+      "longitude": 44.809457
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.695187,
+      "longitude": 44.810559
+    },
+    {
+      "name": "The Kitchen",
+      "rating": 4.7,
+      "latitude": 41.691813,
+      "longitude": 44.806226
+    },
+    {
+      "name": "Khinkali House",
+      "rating": 4.6,
+      "latitude": 41.696464,
+      "longitude": 44.808126
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.691917,
+      "longitude": 44.807335
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.5,
+      "latitude": 41.694225,
+      "longitude": 44.809447
+    },
+    {
+      "name": "Black Lion",
+      "rating": 4.5,
+      "latitude": 41.692636,
+      "longitude": 44.810166
+    },
+    {
+      "name": "Phaetoni",
+      "rating": 4.6,
+      "latitude": 41.695442,
+      "longitude": 44.810826
+    },
+    {
+      "name": "Gogi Dvalishvili",
+      "rating": 4.7,
+      "latitude": 41.694588,
+      "longitude": 44.808243
+    }
+      ]
     },
     {
       "name": "Butternut Squash Soup",
@@ -286,7 +1723,63 @@
       "calories": 320,
       "preparing_time": 30,
       "category": "Soups",
-      "ingredients": ["butternut squash", "onion", "carrots", "apple", "vegetable broth", "coconut milk", "curry powder", "cinnamon", "nutmeg", "olive oil", "salt", "pepper"]
+      "ingredients": ["butternut squash", "onion", "carrots", "apple", "vegetable broth", "coconut milk", "curry powder", "cinnamon", "nutmeg", "olive oil", "salt", "pepper"],
+      "restaurants": [
+    {
+      "name": "Gabriadze Café",
+      "rating": 4.7,
+      "latitude": 41.693951,
+      "longitude": 44.809457
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.695187,
+      "longitude": 44.810559
+    },
+    {
+      "name": "The Kitchen",
+      "rating": 4.7,
+      "latitude": 41.691813,
+      "longitude": 44.806226
+    },
+    {
+      "name": "Khinkali House",
+      "rating": 4.6,
+      "latitude": 41.696464,
+      "longitude": 44.808126
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.691917,
+      "longitude": 44.807335
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.5,
+      "latitude": 41.694225,
+      "longitude": 44.809447
+    },
+    {
+      "name": "Black Lion",
+      "rating": 4.5,
+      "latitude": 41.692636,
+      "longitude": 44.810166
+    },
+    {
+      "name": "Phaetoni",
+      "rating": 4.6,
+      "latitude": 41.695442,
+      "longitude": 44.810826
+    },
+    {
+      "name": "Gogi Dvalishvili",
+      "rating": 4.7,
+      "latitude": 41.694588,
+      "longitude": 44.808243
+    }
+      ]
     },
     {
       "name": "Greek Salad",
@@ -294,7 +1787,63 @@
       "calories": 350,
       "preparing_time": 15,
       "category": "Salads",
-      "ingredients": ["romaine lettuce", "cucumber", "tomatoes", "red onion", "kalamata olives", "feta cheese", "olive oil", "oregano", "lemon juice", "salt", "pepper"]
+      "ingredients": ["romaine lettuce", "cucumber", "tomatoes", "red onion", "kalamata olives", "feta cheese", "olive oil", "oregano", "lemon juice", "salt", "pepper"],
+      "restaurants": [
+    {
+      "name": "Gabriadze Café",
+      "rating": 4.7,
+      "latitude": 41.693951,
+      "longitude": 44.809457
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.695187,
+      "longitude": 44.810559
+    },
+    {
+      "name": "The Kitchen",
+      "rating": 4.7,
+      "latitude": 41.691813,
+      "longitude": 44.806226
+    },
+    {
+      "name": "Khinkali House",
+      "rating": 4.6,
+      "latitude": 41.696464,
+      "longitude": 44.808126
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.691917,
+      "longitude": 44.807335
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.5,
+      "latitude": 41.694225,
+      "longitude": 44.809447
+    },
+    {
+      "name": "Black Lion",
+      "rating": 4.5,
+      "latitude": 41.692636,
+      "longitude": 44.810166
+    },
+    {
+      "name": "Phaetoni",
+      "rating": 4.6,
+      "latitude": 41.695442,
+      "longitude": 44.810826
+    },
+    {
+      "name": "Gogi Dvalishvili",
+      "rating": 4.7,
+      "latitude": 41.694588,
+      "longitude": 44.808243
+    }
+      ]
     },
     {
       "name": "Sweet Potato Fries",
@@ -302,7 +1851,63 @@
       "calories": 250,
       "preparing_time": 20,
       "category": "Breakfast",
-      "ingredients": ["sweet potatoes", "olive oil", "paprika", "garlic powder", "salt", "pepper"]
+      "ingredients": ["sweet potatoes", "olive oil", "paprika", "garlic powder", "salt", "pepper"],
+      "restaurants": [
+    {
+      "name": "Gabriadze Café",
+      "rating": 4.7,
+      "latitude": 41.693951,
+      "longitude": 44.809457
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.695187,
+      "longitude": 44.810559
+    },
+    {
+      "name": "The Kitchen",
+      "rating": 4.7,
+      "latitude": 41.691813,
+      "longitude": 44.806226
+    },
+    {
+      "name": "Khinkali House",
+      "rating": 4.6,
+      "latitude": 41.696464,
+      "longitude": 44.808126
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.691917,
+      "longitude": 44.807335
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.5,
+      "latitude": 41.694225,
+      "longitude": 44.809447
+    },
+    {
+      "name": "Black Lion",
+      "rating": 4.5,
+      "latitude": 41.692636,
+      "longitude": 44.810166
+    },
+    {
+      "name": "Phaetoni",
+      "rating": 4.6,
+      "latitude": 41.695442,
+      "longitude": 44.810826
+    },
+    {
+      "name": "Gogi Dvalishvili",
+      "rating": 4.7,
+      "latitude": 41.694588,
+      "longitude": 44.808243
+    }
+      ]
     },
     {
       "name": "Beef Burrito",
@@ -310,7 +1915,63 @@
       "calories": 550,
       "preparing_time": 25,
       "category": "Lunch",
-      "ingredients": ["tortilla", "ground beef", "black beans", "rice", "salsa", "cheese", "lettuce", "sour cream", "guacamole"]
+      "ingredients": ["tortilla", "ground beef", "black beans", "rice", "salsa", "cheese", "lettuce", "sour cream", "guacamole"],
+      "restaurants": [
+    {
+      "name": "Gabriadze Café",
+      "rating": 4.7,
+      "latitude": 41.693951,
+      "longitude": 44.809457
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.695187,
+      "longitude": 44.810559
+    },
+    {
+      "name": "The Kitchen",
+      "rating": 4.7,
+      "latitude": 41.691813,
+      "longitude": 44.806226
+    },
+    {
+      "name": "Khinkali House",
+      "rating": 4.6,
+      "latitude": 41.696464,
+      "longitude": 44.808126
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.691917,
+      "longitude": 44.807335
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.5,
+      "latitude": 41.694225,
+      "longitude": 44.809447
+    },
+    {
+      "name": "Black Lion",
+      "rating": 4.5,
+      "latitude": 41.692636,
+      "longitude": 44.810166
+    },
+    {
+      "name": "Phaetoni",
+      "rating": 4.6,
+      "latitude": 41.695442,
+      "longitude": 44.810826
+    },
+    {
+      "name": "Gogi Dvalishvili",
+      "rating": 4.7,
+      "latitude": 41.694588,
+      "longitude": 44.808243
+    }
+      ]
     },
     {
       "name": "Chicken Noodle Soup",
@@ -318,7 +1979,63 @@
       "calories": 300,
       "preparing_time": 30,
       "category": "Soups",
-      "ingredients": ["chicken broth", "chicken breast", "carrots", "celery", "onion", "egg noodles", "garlic", "thyme", "parsley", "salt", "pepper"]
+      "ingredients": ["chicken broth", "chicken breast", "carrots", "celery", "onion", "egg noodles", "garlic", "thyme", "parsley", "salt", "pepper"],
+      "restaurants": [
+    {
+      "name": "Gabriadze Café",
+      "rating": 4.7,
+      "latitude": 41.693951,
+      "longitude": 44.809457
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.695187,
+      "longitude": 44.810559
+    },
+    {
+      "name": "The Kitchen",
+      "rating": 4.7,
+      "latitude": 41.691813,
+      "longitude": 44.806226
+    },
+    {
+      "name": "Khinkali House",
+      "rating": 4.6,
+      "latitude": 41.696464,
+      "longitude": 44.808126
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.691917,
+      "longitude": 44.807335
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.5,
+      "latitude": 41.694225,
+      "longitude": 44.809447
+    },
+    {
+      "name": "Black Lion",
+      "rating": 4.5,
+      "latitude": 41.692636,
+      "longitude": 44.810166
+    },
+    {
+      "name": "Phaetoni",
+      "rating": 4.6,
+      "latitude": 41.695442,
+      "longitude": 44.810826
+    },
+    {
+      "name": "Gogi Dvalishvili",
+      "rating": 4.7,
+      "latitude": 41.694588,
+      "longitude": 44.808243
+    }
+      ]
     },
     {
       "name": "Egg Benedict",
@@ -326,7 +2043,63 @@
       "calories": 450,
       "preparing_time": 25,
       "category": "Breakfast",
-      "ingredients": ["English muffin", "poached eggs", "Canadian bacon", "hollandaise sauce"]
+      "ingredients": ["English muffin", "poached eggs", "Canadian bacon", "hollandaise sauce"],
+      "restaurants": [
+    {
+      "name": "Gabriadze Café",
+      "rating": 4.7,
+      "latitude": 41.693951,
+      "longitude": 44.809457
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.695187,
+      "longitude": 44.810559
+    },
+    {
+      "name": "The Kitchen",
+      "rating": 4.7,
+      "latitude": 41.691813,
+      "longitude": 44.806226
+    },
+    {
+      "name": "Khinkali House",
+      "rating": 4.6,
+      "latitude": 41.696464,
+      "longitude": 44.808126
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.691917,
+      "longitude": 44.807335
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.5,
+      "latitude": 41.694225,
+      "longitude": 44.809447
+    },
+    {
+      "name": "Black Lion",
+      "rating": 4.5,
+      "latitude": 41.692636,
+      "longitude": 44.810166
+    },
+    {
+      "name": "Phaetoni",
+      "rating": 4.6,
+      "latitude": 41.695442,
+      "longitude": 44.810826
+    },
+    {
+      "name": "Gogi Dvalishvili",
+      "rating": 4.7,
+      "latitude": 41.694588,
+      "longitude": 44.808243
+    }
+      ]
     },
     {
       "name": "Pancakes",
@@ -334,7 +2107,63 @@
       "calories": 600,
       "preparing_time": 30,
       "category": "Breakfast",
-      "ingredients": ["flour", "milk", "eggs", "baking powder", "sugar", "butter", "maple syrup"]
+      "ingredients": ["flour", "milk", "eggs", "baking powder", "sugar", "butter", "maple syrup"],
+      "restaurants": [
+    {
+      "name": "Gabriadze Café",
+      "rating": 4.7,
+      "latitude": 41.693951,
+      "longitude": 44.809457
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.695187,
+      "longitude": 44.810559
+    },
+    {
+      "name": "The Kitchen",
+      "rating": 4.7,
+      "latitude": 41.691813,
+      "longitude": 44.806226
+    },
+    {
+      "name": "Khinkali House",
+      "rating": 4.6,
+      "latitude": 41.696464,
+      "longitude": 44.808126
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.691917,
+      "longitude": 44.807335
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.5,
+      "latitude": 41.694225,
+      "longitude": 44.809447
+    },
+    {
+      "name": "Black Lion",
+      "rating": 4.5,
+      "latitude": 41.692636,
+      "longitude": 44.810166
+    },
+    {
+      "name": "Phaetoni",
+      "rating": 4.6,
+      "latitude": 41.695442,
+      "longitude": 44.810826
+    },
+    {
+      "name": "Gogi Dvalishvili",
+      "rating": 4.7,
+      "latitude": 41.694588,
+      "longitude": 44.808243
+    }
+      ]
     },
     {
       "name": "Omelette",
@@ -342,7 +2171,63 @@
       "calories": 350,
       "preparing_time": 20,
       "category": "Breakfast",
-      "ingredients": ["eggs", "milk", "cheese", "ham", "bell peppers", "onion", "salt", "pepper"]
+      "ingredients": ["eggs", "milk", "cheese", "ham", "bell peppers", "onion", "salt", "pepper"],
+      "restaurants": [
+    {
+      "name": "Gabriadze Café",
+      "rating": 4.7,
+      "latitude": 41.693951,
+      "longitude": 44.809457
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.695187,
+      "longitude": 44.810559
+    },
+    {
+      "name": "The Kitchen",
+      "rating": 4.7,
+      "latitude": 41.691813,
+      "longitude": 44.806226
+    },
+    {
+      "name": "Khinkali House",
+      "rating": 4.6,
+      "latitude": 41.696464,
+      "longitude": 44.808126
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.691917,
+      "longitude": 44.807335
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.5,
+      "latitude": 41.694225,
+      "longitude": 44.809447
+    },
+    {
+      "name": "Black Lion",
+      "rating": 4.5,
+      "latitude": 41.692636,
+      "longitude": 44.810166
+    },
+    {
+      "name": "Phaetoni",
+      "rating": 4.6,
+      "latitude": 41.695442,
+      "longitude": 44.810826
+    },
+    {
+      "name": "Gogi Dvalishvili",
+      "rating": 4.7,
+      "latitude": 41.694588,
+      "longitude": 44.808243
+    }
+      ]
     },
     {
       "name": "Fruit Salad",
@@ -350,7 +2235,63 @@
       "calories": 200,
       "preparing_time": 15,
       "category": "Breakfast",
-      "ingredients": ["strawberries", "blueberries", "kiwi", "banana", "orange", "honey"]
+      "ingredients": ["strawberries", "blueberries", "kiwi", "banana", "orange", "honey"],
+      "restaurants": [
+    {
+      "name": "Gabriadze Café",
+      "rating": 4.7,
+      "latitude": 41.693951,
+      "longitude": 44.809457
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.695187,
+      "longitude": 44.810559
+    },
+    {
+      "name": "The Kitchen",
+      "rating": 4.7,
+      "latitude": 41.691813,
+      "longitude": 44.806226
+    },
+    {
+      "name": "Khinkali House",
+      "rating": 4.6,
+      "latitude": 41.696464,
+      "longitude": 44.808126
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.691917,
+      "longitude": 44.807335
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.5,
+      "latitude": 41.694225,
+      "longitude": 44.809447
+    },
+    {
+      "name": "Black Lion",
+      "rating": 4.5,
+      "latitude": 41.692636,
+      "longitude": 44.810166
+    },
+    {
+      "name": "Phaetoni",
+      "rating": 4.6,
+      "latitude": 41.695442,
+      "longitude": 44.810826
+    },
+    {
+      "name": "Gogi Dvalishvili",
+      "rating": 4.7,
+      "latitude": 41.694588,
+      "longitude": 44.808243
+    }
+      ]
     },
     {
       "name": "Smoothie",
@@ -358,7 +2299,63 @@
       "calories": 250,
       "preparing_time": 10,
       "category": "Breakfast",
-      "ingredients": ["banana", "berries", "yogurt", "milk", "honey"]
+      "ingredients": ["banana", "berries", "yogurt", "milk", "honey"],
+      "restaurants": [
+    {
+      "name": "Gabriadze Café",
+      "rating": 4.7,
+      "latitude": 41.693951,
+      "longitude": 44.809457
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.695187,
+      "longitude": 44.810559
+    },
+    {
+      "name": "The Kitchen",
+      "rating": 4.7,
+      "latitude": 41.691813,
+      "longitude": 44.806226
+    },
+    {
+      "name": "Khinkali House",
+      "rating": 4.6,
+      "latitude": 41.696464,
+      "longitude": 44.808126
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.691917,
+      "longitude": 44.807335
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.5,
+      "latitude": 41.694225,
+      "longitude": 44.809447
+    },
+    {
+      "name": "Black Lion",
+      "rating": 4.5,
+      "latitude": 41.692636,
+      "longitude": 44.810166
+    },
+    {
+      "name": "Phaetoni",
+      "rating": 4.6,
+      "latitude": 41.695442,
+      "longitude": 44.810826
+    },
+    {
+      "name": "Gogi Dvalishvili",
+      "rating": 4.7,
+      "latitude": 41.694588,
+      "longitude": 44.808243
+    }
+      ]
     },
     {
       "name": "Hot Chocolate",
@@ -366,7 +2363,63 @@
       "calories": 350,
       "preparing_time": 12,
       "category": "Drinks",
-      "ingredients": ["milk", "cocoa powder", "sugar", "whipped cream", "chocolate shavings"]
+      "ingredients": ["milk", "cocoa powder", "sugar", "whipped cream", "chocolate shavings"],
+      "restaurants": [
+    {
+      "name": "Gabriadze Café",
+      "rating": 4.7,
+      "latitude": 41.693951,
+      "longitude": 44.809457
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.695187,
+      "longitude": 44.810559
+    },
+    {
+      "name": "The Kitchen",
+      "rating": 4.7,
+      "latitude": 41.691813,
+      "longitude": 44.806226
+    },
+    {
+      "name": "Khinkali House",
+      "rating": 4.6,
+      "latitude": 41.696464,
+      "longitude": 44.808126
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.691917,
+      "longitude": 44.807335
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.5,
+      "latitude": 41.694225,
+      "longitude": 44.809447
+    },
+    {
+      "name": "Black Lion",
+      "rating": 4.5,
+      "latitude": 41.692636,
+      "longitude": 44.810166
+    },
+    {
+      "name": "Phaetoni",
+      "rating": 4.6,
+      "latitude": 41.695442,
+      "longitude": 44.810826
+    },
+    {
+      "name": "Gogi Dvalishvili",
+      "rating": 4.7,
+      "latitude": 41.694588,
+      "longitude": 44.808243
+    }
+      ]
     },
     {
       "name": "Lemonade",
@@ -374,7 +2427,63 @@
       "calories": 100,
       "preparing_time": 8,
       "category": "Drinks",
-      "ingredients": ["lemons", "sugar", "water", "ice"]
+      "ingredients": ["lemons", "sugar", "water", "ice"],
+      "restaurants": [
+    {
+      "name": "Gabriadze Café",
+      "rating": 4.7,
+      "latitude": 41.693951,
+      "longitude": 44.809457
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.695187,
+      "longitude": 44.810559
+    },
+    {
+      "name": "The Kitchen",
+      "rating": 4.7,
+      "latitude": 41.691813,
+      "longitude": 44.806226
+    },
+    {
+      "name": "Khinkali House",
+      "rating": 4.6,
+      "latitude": 41.696464,
+      "longitude": 44.808126
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.691917,
+      "longitude": 44.807335
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.5,
+      "latitude": 41.694225,
+      "longitude": 44.809447
+    },
+    {
+      "name": "Black Lion",
+      "rating": 4.5,
+      "latitude": 41.692636,
+      "longitude": 44.810166
+    },
+    {
+      "name": "Phaetoni",
+      "rating": 4.6,
+      "latitude": 41.695442,
+      "longitude": 44.810826
+    },
+    {
+      "name": "Gogi Dvalishvili",
+      "rating": 4.7,
+      "latitude": 41.694588,
+      "longitude": 44.808243
+    }
+      ]
     },
     {
       "name": "Green Tea",
@@ -382,7 +2491,63 @@
       "calories": 0,
       "preparing_time": 7,
       "category": "Drinks",
-      "ingredients": ["green tea leaves", "hot water", "honey (optional)"]
+      "ingredients": ["green tea leaves", "hot water", "honey (optional)"],
+      "restaurants": [
+    {
+      "name": "Gabriadze Café",
+      "rating": 4.7,
+      "latitude": 41.693951,
+      "longitude": 44.809457
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.695187,
+      "longitude": 44.810559
+    },
+    {
+      "name": "The Kitchen",
+      "rating": 4.7,
+      "latitude": 41.691813,
+      "longitude": 44.806226
+    },
+    {
+      "name": "Khinkali House",
+      "rating": 4.6,
+      "latitude": 41.696464,
+      "longitude": 44.808126
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.691917,
+      "longitude": 44.807335
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.5,
+      "latitude": 41.694225,
+      "longitude": 44.809447
+    },
+    {
+      "name": "Black Lion",
+      "rating": 4.5,
+      "latitude": 41.692636,
+      "longitude": 44.810166
+    },
+    {
+      "name": "Phaetoni",
+      "rating": 4.6,
+      "latitude": 41.695442,
+      "longitude": 44.810826
+    },
+    {
+      "name": "Gogi Dvalishvili",
+      "rating": 4.7,
+      "latitude": 41.694588,
+      "longitude": 44.808243
+    }
+      ]
     },
     {
       "name": "Waffles",
@@ -390,7 +2555,63 @@
       "calories": 500,
       "preparing_time": 25,
       "category": "Breakfast",
-      "ingredients": ["waffle mix", "eggs", "milk", "butter", "maple syrup"]
+      "ingredients": ["waffle mix", "eggs", "milk", "butter", "maple syrup"],
+      "restaurants": [
+    {
+      "name": "Gabriadze Café",
+      "rating": 4.7,
+      "latitude": 41.693951,
+      "longitude": 44.809457
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.695187,
+      "longitude": 44.810559
+    },
+    {
+      "name": "The Kitchen",
+      "rating": 4.7,
+      "latitude": 41.691813,
+      "longitude": 44.806226
+    },
+    {
+      "name": "Khinkali House",
+      "rating": 4.6,
+      "latitude": 41.696464,
+      "longitude": 44.808126
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.691917,
+      "longitude": 44.807335
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.5,
+      "latitude": 41.694225,
+      "longitude": 44.809447
+    },
+    {
+      "name": "Black Lion",
+      "rating": 4.5,
+      "latitude": 41.692636,
+      "longitude": 44.810166
+    },
+    {
+      "name": "Phaetoni",
+      "rating": 4.6,
+      "latitude": 41.695442,
+      "longitude": 44.810826
+    },
+    {
+      "name": "Gogi Dvalishvili",
+      "rating": 4.7,
+      "latitude": 41.694588,
+      "longitude": 44.808243
+    }
+      ]
     },
     {
       "name": "Granola Parfait",
@@ -398,7 +2619,63 @@
       "calories": 300,
       "preparing_time": 15,
       "category": "Breakfast",
-      "ingredients": ["granola", "yogurt", "berries", "honey"]
+      "ingredients": ["granola", "yogurt", "berries", "honey"],
+      "restaurants": [
+    {
+      "name": "Gabriadze Café",
+      "rating": 4.7,
+      "latitude": 41.693951,
+      "longitude": 44.809457
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.695187,
+      "longitude": 44.810559
+    },
+    {
+      "name": "The Kitchen",
+      "rating": 4.7,
+      "latitude": 41.691813,
+      "longitude": 44.806226
+    },
+    {
+      "name": "Khinkali House",
+      "rating": 4.6,
+      "latitude": 41.696464,
+      "longitude": 44.808126
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.6,
+      "latitude": 41.691917,
+      "longitude": 44.807335
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.5,
+      "latitude": 41.694225,
+      "longitude": 44.809447
+    },
+    {
+      "name": "Black Lion",
+      "rating": 4.5,
+      "latitude": 41.692636,
+      "longitude": 44.810166
+    },
+    {
+      "name": "Phaetoni",
+      "rating": 4.6,
+      "latitude": 41.695442,
+      "longitude": 44.810826
+    },
+    {
+      "name": "Gogi Dvalishvili",
+      "rating": 4.7,
+      "latitude": 41.694588,
+      "longitude": 44.808243
+    }
+      ]
     },
     {
       "name": "French Toast",
@@ -406,7 +2683,33 @@
       "calories": 400,
       "preparing_time": 20,
       "category": "Breakfast",
-      "ingredients": ["bread", "eggs", "milk", "cinnamon", "vanilla extract", "butter", "maple syrup"]
+      "ingredients": ["bread", "eggs", "milk", "cinnamon", "vanilla extract", "butter", "maple syrup"],
+      "restaurants": [
+    {
+      "name": "Café Linville",
+      "rating": 4.5,
+      "latitude": 41.693565,
+      "longitude": 44.806136
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.5,
+      "latitude": 41.693940,
+      "longitude": 44.811773
+    },
+    {
+      "name": "Tiflis Veranda",
+      "rating": 4.6,
+      "latitude": 41.702319,
+      "longitude": 44.801926
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.6,
+      "latitude": 41.695306,
+      "longitude": 44.811160
+    }
+      ]
     },
     {
       "name": "Orange Juice",
@@ -414,7 +2717,33 @@
       "calories": 120,
       "preparing_time": 5,
       "category": "Drinks",
-      "ingredients": ["oranges"]
+      "ingredients": ["oranges"],
+      "restaurants": [
+    {
+      "name": "Café Linville",
+      "rating": 4.5,
+      "latitude": 41.693565,
+      "longitude": 44.806136
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.5,
+      "latitude": 41.693940,
+      "longitude": 44.811773
+    },
+    {
+      "name": "Tiflis Veranda",
+      "rating": 4.6,
+      "latitude": 41.702319,
+      "longitude": 44.801926
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.6,
+      "latitude": 41.695306,
+      "longitude": 44.811160
+    }
+      ]
     },
     {
       "name": "Coffee",
@@ -422,7 +2751,33 @@
       "calories": 5,
       "preparing_time": 10,
       "category": "Drinks",
-      "ingredients": ["ground coffee", "hot water", "sugar (optional)", "milk (optional)"]
+      "ingredients": ["ground coffee", "hot water", "sugar (optional)", "milk (optional)"],
+      "restaurants": [
+    {
+      "name": "Café Linville",
+      "rating": 4.5,
+      "latitude": 41.693565,
+      "longitude": 44.806136
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.5,
+      "latitude": 41.693940,
+      "longitude": 44.811773
+    },
+    {
+      "name": "Tiflis Veranda",
+      "rating": 4.6,
+      "latitude": 41.702319,
+      "longitude": 44.801926
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.6,
+      "latitude": 41.695306,
+      "longitude": 44.811160
+    }
+      ]
     },
     {
       "name": "Iced Tea",
@@ -430,7 +2785,27 @@
       "calories": 30,
       "preparing_time": 15,
       "category": "Drinks",
-      "ingredients": ["tea bags", "hot water", "sugar (optional)", "lemon slices", "ice"]
+      "ingredients": ["tea bags", "hot water", "sugar (optional)", "lemon slices", "ice"],
+      "restaurants": [
+    {
+      "name": "Café Linville",
+      "rating": 4.5,
+      "latitude": 41.693565,
+      "longitude": 44.806136
+    },
+    {
+      "name": "Tiflis Veranda",
+      "rating": 4.6,
+      "latitude": 41.702319,
+      "longitude": 44.801926
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.6,
+      "latitude": 41.695306,
+      "longitude": 44.811160
+    }
+      ]
     },
     {
       "name": "Smoothie",
@@ -438,7 +2813,33 @@
       "calories": 250,
       "preparing_time": 10,
       "category": "Drinks",
-      "ingredients": ["banana", "berries", "yogurt", "milk", "honey"]
+      "ingredients": ["banana", "berries", "yogurt", "milk", "honey"],
+      "restaurants": [
+    {
+      "name": "Café Linville",
+      "rating": 4.5,
+      "latitude": 41.693565,
+      "longitude": 44.806136
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.5,
+      "latitude": 41.693940,
+      "longitude": 44.811773
+    },
+    {
+      "name": "Tiflis Veranda",
+      "rating": 4.6,
+      "latitude": 41.702319,
+      "longitude": 44.801926
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.6,
+      "latitude": 41.695306,
+      "longitude": 44.811160
+    }
+      ]
     },
     {
       "name": "Mango Lassi",
@@ -446,7 +2847,33 @@
       "calories": 200,
       "preparing_time": 15,
       "category": "Drinks",
-      "ingredients": ["mango", "yogurt", "milk", "sugar (optional)"]
+      "ingredients": ["mango", "yogurt", "milk", "sugar (optional)"],
+      "restaurants": [
+    {
+      "name": "Café Linville",
+      "rating": 4.5,
+      "latitude": 41.693565,
+      "longitude": 44.806136
+    },
+    {
+      "name": "Machakhela",
+      "rating": 4.5,
+      "latitude": 41.693940,
+      "longitude": 44.811773
+    },
+    {
+      "name": "Tiflis Veranda",
+      "rating": 4.6,
+      "latitude": 41.702319,
+      "longitude": 44.801926
+    },
+    {
+      "name": "Tiflis",
+      "rating": 4.6,
+      "latitude": 41.695306,
+      "longitude": 44.811160
+    }
+      ]
     }
   ]
 }
