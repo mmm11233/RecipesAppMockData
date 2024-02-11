@@ -2763,6 +2763,7 @@
       ]
     },
     {
+      "id": "458f3235-7bb4-15fc-9326-464d60aeed23",
       "name": "Orange Juice",
       "picture_url": "https://i.ibb.co/1R1KZ5n/Orange-Juice.jpg",
       "calories": 120,
@@ -2832,6 +2833,7 @@
       ]
     },
     {
+      "id": "458f3025-7bb4-15fc-9326-139460aeed23",
       "name": "Iced Tea",
       "picture_url": "https://i.ibb.co/WWqKjzh/Iced-Tea.jpg",
       "calories": 30,
@@ -2860,6 +2862,7 @@
       ]
     },
     {
+      "id": "458f3025-7bb2-15fc-hd71-464d60aeed23",
       "name": "Smoothie",
       "picture_url": "https://i.ibb.co/z2n6N7w/Smoothie.jpg",
       "calories": 250,
