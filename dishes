@@ -1,6 +1,7 @@
 {
   "dishes": [
     {
+      "id": "d0c7f149-479e-41c7-9ae7-448c12c29376",
       "name": "Spaghetti Bolognese",
       "picture_url": "https://i.ibb.co/tYPX6tJ/spaghetti-bolognese-36.jpg",
       "calories": 600,
@@ -35,6 +36,7 @@
       ]
     },
     {
+      "id": "2539636c-6837-4381-891f-88594b6517b2",
       "name": "Chicken Alfredo",
       "picture_url": "https://i.ibb.co/zX163HY/Chicken-Alfredo-bowl.jpg",
       "calories": 800,
@@ -171,6 +173,7 @@
       ]
     },
     {
+      "id": "2539636c-6837-4381-891f-88594b6517b3",
       "name": "Vegetable Stir-Fry",
       "picture_url": "https://i.ibb.co/bKKS1m1/Vegetable-Stir-Fry.webp",
       "calories": 400,
@@ -199,6 +202,7 @@
       ]
     },
     {
+      "id": "2586336c-6837-4381-891f-88594b6513b4",
       "name": "Margherita Pizza",
       "picture_url": "https://i.ibb.co/S7h4MBj/Margherita-Pizza.jpg",
       "calories": 700,
@@ -227,6 +231,7 @@
       ]
     },
     {
+      "id": "2539636c-6837-4381-891f-88594b65mg53",
       "name": "Grilled Salmon",
       "picture_url": "https://i.ibb.co/5Rtw47M/Grilled-Salmon.jpg",
       "calories": 550,
@@ -267,6 +272,7 @@
       ]
     },
     {
+      "id": "2539636c-8906-4381-891f-88594b6517b2",
       "name": "Caesar Salad",
       "picture_url": "https://i.ibb.co/FgTh7JZ/Caesar-Salad.jpg",
       "calories": 350,
@@ -301,6 +307,7 @@
       ]
     },
     {
+      "id": "2539636c-6837-0934-891f-88594b6517b2",
       "name": "Penne alla Vodka",
       "picture_url": "https://i.ibb.co/vh8bCcT/Penne-alla-Vodka.jpg",
       "calories": 550,
@@ -329,6 +336,7 @@
       ]
     },
         {
+      "id": "2539636c-6837-4381-907f-88594b6517b2",
       "name": "Mushroom Risotto",
       "picture_url": "https://i.ibb.co/vBcyMmm/Mushroom-Risotto.jpg",
       "calories": 550,
@@ -381,6 +389,7 @@
       ]
     },
     {
+      "id": "2539636c-6837-4381-891f-8859bv4f17b2",
       "name": "Hawaiian Pizza",
       "picture_url": "https://i.ibb.co/FDh06t5/Hawaiian-Pizza.jpg",
       "calories": 650,
@@ -415,6 +424,7 @@
       ]
     },
     {
+      "id": "8u6g636c-6837-4381-891f-88594b6517b2",
       "name": "Cajun Shrimp Pasta",
       "picture_url": "https://i.ibb.co/vhMppR3/Cajun-Shrimp-Pasta.jpg",
       "calories": 600,
@@ -455,6 +465,7 @@
       ]
     },
     {
+      "id": "6998342b-1b30-42b6-8510-d1f9032269a7",
       "name": "Beef Burrito",
       "picture_url": "https://i.ibb.co/TkWs63x/Beef-Burrito.jpg",
       "calories": 550,
@@ -489,6 +500,7 @@
       ]
     },
     {
+      "id": "6998342b-9075-42b6-8510-d1f9032269a7",
       "name": "Caprese Salad",
       "picture_url": "https://i.ibb.co/0cpDDsL/Caprese-Salad.jpg",
       "calories": 300,
@@ -541,6 +553,7 @@
       ]
     },
     {
+      "id": "6998342b-1b30-8h63-8510-d1f9032269a7",
       "name": "Tomato Basil Bruschetta",
       "picture_url": "https://i.ibb.co/Hxp12j0/Tomato-Basil-Bruschetta.jpg",
       "calories": 250,
@@ -575,6 +588,7 @@
       ]
     },
     {
+      "id": "6998342b-1b30-42b6-0986-d1f9032269a7",
       "name": "Eggplant Parmesan",
       "picture_url": "https://i.ibb.co/0n3xQkr/Eggplant-Parmesan.jpg",
       "calories": 600,
@@ -609,6 +623,7 @@
       ]
     },
     {
+      "id": "6998342b-1n82-42b6-8510-d1f9032269a7",
       "name": "Salmon Teriyaki",
       "picture_url": "https://i.ibb.co/m9rMLTV/Salmon-Teriyaki.jpg",
       "calories": 650,
@@ -643,6 +658,7 @@
       ]
     },
     {
+      "id": "69908162-1b30-42b6-8510-d1f9032269a7",
       "name": "Chocolate Cake",
       "picture_url": "https://i.ibb.co/L1T6dbp/Chocolate-Cake.webp",
       "calories": 500,
@@ -695,6 +711,7 @@
       ]
     },
     {
+      "id": "6998342b-0912-42b6-8510-d1f9032269a7",
       "name": "Vanilla Ice Cream",
       "picture_url": "https://i.ibb.co/3d1X9bW/Vanilla-Ice-Cream.gif",
       "calories": 200,
@@ -735,6 +752,7 @@
       ]
     },
     {
+      "id": "6998342b-1b30-42b6-8510-d1f9901269a7",
       "name": "Cheesecake",
       "picture_url": "https://i.ibb.co/rQGLCBZ/Cheesecake.webp",
       "calories": 600,
@@ -763,6 +781,7 @@
       ]
     },
     {
+      "id": "6998342b-1b30-9hda-8510-d1f9032269a7",
       "name": "Fruit Tart",
       "picture_url": "https://i.ibb.co/sbxGJdt/Fruit-Tart.jpg",
       "calories": 300,
@@ -797,6 +816,7 @@
       ]
     },
     {
+      "id": "6998342b-jsha-42b6-8510-d1f9032269a7",
       "name": "Chocolate Fondue",
       "picture_url": "https://i.ibb.co/fMbXyv2/Chocolate-Fondue.jpg",
       "calories": 450,
@@ -849,6 +869,7 @@
       ]
     },
     {
+      "id": "6998342b-1b30-42b6-9431-d1f9032269a7",
       "name": "Tiramisu",
       "picture_url": "https://i.ibb.co/frjxwFd/Tiramisu.jpg",
       "calories": 550,
@@ -877,6 +898,7 @@
       ]
     },
     {
+      "id": "6998342b-3489-42b6-8510-d1f9032269a7",
       "name": "Strawberry Shortcake",
       "picture_url": "https://i.ibb.co/Kb4LVQ8/Strawberry-Shortcake.jpg",
       "calories": 400,
@@ -917,6 +939,7 @@
       ]
     },
     {
+      "id": "645632b-1b30-42b6-8510-d1f9032269a7",
       "name": "Mango Chicken Curry",
       "picture_url": "https://i.ibb.co/Vj4119P/Mango-Chicken-Curry.jpg",
       "calories": 700,
@@ -981,6 +1004,7 @@
       ]
     },
     {
+      "id": "c8f72021-c509-4c34-979a-9c5b61d9693a",
       "name": "Penne alla Vodka",
       "picture_url": "https://i.ibb.co/tXWqGrw/Penne-alla-Vodka.jpg",
       "calories": 550,
@@ -1044,6 +1068,7 @@
       ]
     },
     {
+      "id": "c8f72021-c539-4c34-979a-9c5b61d9693a",
       "name": "Chicken Caesar Wrap",
       "picture_url": "https://i.ibb.co/hyfMq54/Chicken-Caesar-Wrap.jpg",
       "calories": 450,
@@ -1108,6 +1133,7 @@
       ]
     },
     {
+      "id": "c8f72021-c509-4c34-919a-9c5b61d9693a",
       "name": "Quinoa Salad",
       "picture_url": "https://i.ibb.co/tBqnBHj/Quinoa-Salad.jpg",
       "calories": 400,
@@ -1160,6 +1186,7 @@
       ]
     },
     {
+      "id": "c8f72021-c509-4c34-972a-9c5b61d9693a",
       "name": "Lemon Garlic Butter Shrimp",
       "picture_url": "https://i.ibb.co/DVYprg2/Lemon-Butter-Shrimp-square.jpg",
       "calories": 350,
@@ -1212,6 +1239,7 @@
       ]
     },
     {
+      "id": "c8f72021-c509-4c34-979b-9c5b61d9693a",
       "name": "Cajun Shrimp Pasta",
       "picture_url": "https://i.ibb.co/FDJd1VX/Cajun-Shrimp-Pasta.jpg",
       "calories": 600,
@@ -1282,6 +1310,7 @@
       ]
     },
     {
+      "id": "c8f72221-c109-4c34-979a-9c5b61d9693a",
       "name": "Chicken Noodle Soup",
       "picture_url": "https://i.ibb.co/sjFvqrw/Chicken-Noodle-Soup.jpg",
       "calories": 300,
@@ -1334,6 +1363,7 @@
       ]
     },
     {
+      "id": "c8f72021-c509-4c34-979a-9c5b61d9693b",
       "name": "Tomato Basil Soup",
       "picture_url": "https://i.ibb.co/HXBGWtC/tomato-Basil-Soup.jpg",
       "calories": 250,
@@ -1404,6 +1434,7 @@
       ]
     },
     {
+      "id": "c8f72021-d109-4c34-979a-9c5b61d9693a",
       "name": "Minestrone Soup",
       "picture_url": "https://i.ibb.co/Nx5R8ZS/Minestrone-Soup.jpg",
       "calories": 350,
@@ -1474,6 +1505,7 @@
       ]
     },
     {
+      "id": "c8f76789-c509-4c34-979a-9c5b61d9693a",
       "name": "Lentil Soup",
       "picture_url": "https://i.ibb.co/bJDYQVW/Lentil-Soup.webp",
       "calories": 280,
@@ -1538,6 +1570,7 @@
       ]
     },
     {
+      "id": "fd3ed99a-7a97-4d20-8d25-2f8e54364be8",
       "name": "Cream of Mushroom Soup",
       "picture_url": "https://i.ibb.co/JrcwM3k/Cream-of-Mushroom-Soup.jpg",
       "calories": 400,
@@ -1602,6 +1635,7 @@
       ]
     },
     {
+      "id": "fd3ed99a-1a97-4d20-8d25-2f8e54364be8",
       "name": "Clam Chowder",
       "picture_url": "https://i.ibb.co/92DQTG8/Clam-Chowder.jpg",
       "calories": 450,
@@ -1654,6 +1688,7 @@
       ]
     },
     {
+      "id": "fd3ed99a-7a27-4d20-8d25-2f8e54364be8",
       "name": "Vegetarian Pho",
       "picture_url": "https://i.ibb.co/DpW5PRm/Vegetarian-Pho.jpg",
       "calories": 300,
@@ -1718,6 +1753,7 @@
       ]
     },
     {
+      "id": "fd3ed99a-7a97-4d20-3d25-2f8e54364be8",
       "name": "Butternut Squash Soup",
       "picture_url": "https://i.ibb.co/m64r0qn/Butternut-Squash-Soup.jpg",
       "calories": 320,
@@ -1782,6 +1818,7 @@
       ]
     },
     {
+      "id": "fd3ed99a-7a97-4d20-8d25-2f8e54464be8",
       "name": "Greek Salad",
       "picture_url": "https://i.ibb.co/S7V97HQ/Greek-Salad.jpg",
       "calories": 350,
@@ -1846,6 +1883,7 @@
       ]
     },
     {
+      "id": "fd3ed99a-6hs7-4d20-8d25-2f8e54364be8",
       "name": "Sweet Potato Fries",
       "picture_url": "https://i.ibb.co/kqtXKHM/Sweet-Potato-Fries.jpg",
       "calories": 250,
@@ -1910,6 +1948,7 @@
       ]
     },
     {
+      "id": "fd3ed99a-7a97-7hca-8d25-2f8e54364be8",
       "name": "Beef Burrito",
       "picture_url": "https://i.ibb.co/RY8HBgM/Beef-Burrito.webp",
       "calories": 550,
@@ -1974,6 +2013,7 @@
       ]
     },
     {
+      "id": "fd3ed99a-7a97-4d20-bvc1-2f8e54364be8",
       "name": "Chicken Noodle Soup",
       "picture_url": "https://i.ibb.co/Y2drSzD/Chicken-Noodle-Soup-13.jpg",
       "calories": 300,
@@ -2038,6 +2078,7 @@
       ]
     },
     {
+      "id": "fd3ed99a-7a97-4d20-8d25-2f8e5436123e8",
       "name": "Egg Benedict",
       "picture_url": "https://i.ibb.co/vkmfWhB/Egg-Benedict.jpg",
       "calories": 450,
@@ -2102,6 +2143,7 @@
       ]
     },
     {
+      "id": "fd3ed99a-7a97-4d20-8632-2f8e54364be8",
       "name": "Pancakes",
       "picture_url": "https://i.ibb.co/CMQ3stZ/Pancakes.jpg",
       "calories": 600,
@@ -2166,6 +2208,7 @@
       ]
     },
     {
+      "id": "fd3ed99a-1238-4d20-8d25-2f8e54364be8",
       "name": "Omelette",
       "picture_url": "https://i.ibb.co/qCjjY6z/Omelette.jpg",
       "calories": 350,
@@ -2230,6 +2273,7 @@
       ]
     },
     {
+      "id": "fd3ed99a-7a97-5shd-8d25-2f8e54364be8",
       "name": "Fruit Salad",
       "picture_url": "https://i.ibb.co/FYqKckB/Fruit-Salad.jpg",
       "calories": 200,
@@ -2294,6 +2338,7 @@
       ]
     },
     {
+      "id": "fd3ed99a-7a97-4d20-67hd-2f8e54364be8",
       "name": "Smoothie",
       "picture_url": "https://i.ibb.co/fYHGqLb/Smoothie.jpg",
       "calories": 250,
@@ -2358,6 +2403,7 @@
       ]
     },
     {
+      "id": "fd3ed99a-7a97-4d20-8d25-2f8e57ghdbe8",
       "name": "Hot Chocolate",
       "picture_url": "https://i.ibb.co/TBZ6jqZ/Hot-Chocolate.jpg",
       "calories": 350,
@@ -2422,6 +2468,7 @@
       ]
     },
     {
+      "id": "458f3025-7bb4-45fc-9326-464d60aeed23",
       "name": "Lemonade",
       "picture_url": "https://i.ibb.co/MP9t684/32385-best-lemonade-ever-DDMFS-4x3-8cef7761205e417499c89eb178e5ba2b.jpg",
       "calories": 100,
@@ -2486,6 +2533,7 @@
       ]
     },
     {
+      "id": "458f3025-1bb4-45fc-9326-464d60aeed23",
       "name": "Green Tea",
       "picture_url": "https://i.ibb.co/37ZXGPz/Green-Tea.jpg",
       "calories": 0,
@@ -2550,6 +2598,7 @@
       ]
     },
     {
+      "id": "458f3025-34b4-45fc-9326-464d60aeed23",
       "name": "Waffles",
       "picture_url": "https://i.ibb.co/BzS1dWL/Waffles.jpg",
       "calories": 500,
@@ -2614,6 +2663,7 @@
       ]
     },
     {
+      "id": "458f3025-7bb2-45fc-9326-464d60aeed23",
       "name": "Granola Parfait",
       "picture_url": "https://i.ibb.co/SXbBDLJ/granolaa.jpg",
       "calories": 300,
@@ -2678,6 +2728,7 @@
       ]
     },
     {
+      "id": "458f3025-7bb4-15fc-9326-464d60aeed23",
       "name": "French Toast",
       "picture_url": "https://i.ibb.co/PDRz27W/French-Toast.jpg",
       "calories": 400,
@@ -2746,6 +2797,7 @@
       ]
     },
     {
+      "id": "458f3025-7bb4-45fc-2312-464d60aeed23",
       "name": "Coffee",
       "picture_url": "https://i.ibb.co/gddYkyQ/Coffee.jpg",
       "calories": 5,
@@ -2842,6 +2894,7 @@
       ]
     },
     {
+      "id": "458f3025-7bb4-45fc-8912-464d60aeed23",
       "name": "Mango Lassi",
       "picture_url": "https://i.ibb.co/ZhsNbpy/Mango-Lassi.jpg",
       "calories": 200,
